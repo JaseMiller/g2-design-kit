@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -50,6 +50,10 @@
     {
       "class": "text",
       "id": "B47C06F3-E4DE-48E3-8ED8-AD185289F837"
+    },
+    {
+      "class": "bitmap",
+      "id": "C0CB4BC3-C861-4FDE-88C9-8D657E6EC1B6"
     }
   ],
   "name": "Getting Started",
