@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "84c1c690-f722-11e7-a9f1-4f7bee40a903",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6EDC0CDE-FE2F-425A-A537-A5A70219327D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,36 +20,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 792,
+    "width": 612,
+    "x": 1,
+    "y": 29
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
+      72,
+      540
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "6EDC0CDE-FE2F-425A-A537-A5A70219327D"
+      "class": "text",
+      "id": "D52DB2B2-0314-41E1-9A9D-46FA41BD98DD"
+    },
+    {
+      "class": "text",
+      "id": "B47C06F3-E4DE-48E3-8ED8-AD185289F837"
     }
   ],
   "name": "Getting Started",
   "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -51,8 +67,10 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
+      73,
+      720
     ]
   }
 }

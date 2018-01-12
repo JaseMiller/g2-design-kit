@@ -1,0 +1,78 @@
+{
+  "_class": "page",
+  "do_objectID": "84c1c690-f722-11e7-a9f1-4f7bee40a903",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1C492040-5808-4BC2-A32B-DF91FEBF5192"
+    },
+    {
+      "class": "artboard",
+      "id": "E28FC442-2E86-4166-9CFD-0F0848D7A351"
+    },
+    {
+      "class": "artboard",
+      "id": "60F1A00E-2625-47CF-AD8F-F0784686A487"
+    },
+    {
+      "class": "artboard",
+      "id": "0815E997-0CD3-4881-8966-6893C02AC050"
+    },
+    {
+      "class": "artboard",
+      "id": "6EDC0CDE-FE2F-425A-A537-A5A70219327D"
+    },
+    {
+      "class": "group",
+      "id": "44E38E51-3B84-47B2-A4C2-610C4F37F754"
+    }
+  ],
+  "name": "Guide to Using Kactus at G2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
