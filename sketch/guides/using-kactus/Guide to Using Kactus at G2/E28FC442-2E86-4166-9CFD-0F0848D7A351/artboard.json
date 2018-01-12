@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "6EDC0CDE-FE2F-425A-A537-A5A70219327D",
+  "do_objectID": "E28FC442-2E86-4166-9CFD-0F0848D7A351",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 792,
     "width": 612,
-    "x": 1,
-    "y": 29
+    "x": 729,
+    "y": 1769
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -31,6 +31,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      72,
+      540
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -39,18 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
-      "id": "D52DB2B2-0314-41E1-9A9D-46FA41BD98DD"
-    },
-    {
-      "class": "text",
-      "id": "B47C06F3-E4DE-48E3-8ED8-AD185289F837"
+      "id": "3076FFFD-2D86-4D79-8E26-2CF7CC2C729C"
     }
   ],
-  "name": "Getting Started",
+  "name": "Standard Workflow 3",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,6 +65,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      720,
+      72
     ]
   }
 }
