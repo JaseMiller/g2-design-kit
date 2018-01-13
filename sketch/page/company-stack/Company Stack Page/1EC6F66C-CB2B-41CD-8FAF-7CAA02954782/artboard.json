@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 1942,
     "width": 1440,
-    "x": 2599,
+    "x": 2102,
     "y": -181
   },
   "hasBackgroundColor": true,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
