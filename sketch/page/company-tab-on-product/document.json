@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "950655c1-f7ae-11e7-a10f-cd9dc154448a",
+  "do_objectID": "5a0b2520-fa35-11e7-bbd0-2d3492a37590",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -32,12 +32,12 @@
     "version": 97
   },
   "pages": [
-    "Company Stack Page",
-    "Symbols"
+    "Page 1",
+    "Product Page - Companies Tab"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13065587,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }
   }
 }

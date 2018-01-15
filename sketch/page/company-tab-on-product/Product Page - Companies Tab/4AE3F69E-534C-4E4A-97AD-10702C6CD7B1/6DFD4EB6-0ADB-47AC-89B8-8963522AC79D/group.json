@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6DFD4EB6-0ADB-47AC-89B8-8963522AC79D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 990,
+    "x": 384,
+    "y": 284
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9273BDA-26E6-433F-9E00-24ABE511BCA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E98F42D5-65B6-4BF1-AD8F-C89D92582D71"
+    }
+  ],
+  "name": "Company Box - hidden",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
