@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "99BC7D14-EF56-4849-9A88-4550098811B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 398,
+    "width": 1320,
+    "x": 24,
+    "y": 686
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D56E8CCF-82B1-4F55-A5A5-C1CD2303448B"
+    },
+    {
+      "class": "group",
+      "id": "CDADD367-F840-4C0B-A680-251120BD4A1A"
+    },
+    {
+      "class": "group",
+      "id": "F614501B-BABC-4C05-8939-892053ABE887"
+    },
+    {
+      "class": "group",
+      "id": "8ED078DF-8ACA-49B7-8AAD-DF77F147A9AF"
+    },
+    {
+      "class": "group",
+      "id": "C35DD2CB-FDF3-43B8-8419-BF1CFB97DE59"
+    },
+    {
+      "class": "group",
+      "id": "F77C969F-29EC-4AEE-8275-AAFCCB3F1E98"
+    }
+  ],
+  "name": "Product Category Grouping - 4 products",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
