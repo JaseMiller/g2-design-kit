@@ -35,7 +35,7 @@
     "y": -166
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -77,6 +77,10 @@
     {
       "class": "group",
       "id": "840B3DCF-8A8F-4FAD-95AA-6AA33F48EE43"
+    },
+    {
+      "class": "group",
+      "id": "2FB2AEA9-FAA5-43D4-B608-A44A35AF9178"
     }
   ],
   "name": "Product Page 3 - not logged in",
