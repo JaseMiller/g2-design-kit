@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3E27C9F2-060A-4917-9C01-94CC4DBE7A8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 144,
+    "x": 14,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9111C45E-7DDE-4302-8E58-67575A50E4CA"
+    },
+    {
+      "class": "group",
+      "id": "22013A25-413F-4EA6-ABFC-07E6497735BF"
+    },
+    {
+      "class": "group",
+      "id": "66E9C1FA-5FC3-4183-A400-FC86C808151A"
+    },
+    {
+      "class": "group",
+      "id": "503B6B9A-9236-4AC8-88C7-481F873C320A"
+    },
+    {
+      "class": "group",
+      "id": "27F521D2-F436-4581-8CC6-0AC1834F33CE"
+    }
+  ],
+  "name": "Profile Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

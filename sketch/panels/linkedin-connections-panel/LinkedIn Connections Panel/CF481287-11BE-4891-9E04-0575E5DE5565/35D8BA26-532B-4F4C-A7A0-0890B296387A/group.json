@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "35D8BA26-532B-4F4C-A7A0-0890B296387A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 322,
+    "width": 1039,
+    "x": 355,
+    "y": 593
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A17D9C37-FCA2-43F6-9A21-67E0D14BE25D"
+    },
+    {
+      "class": "bitmap",
+      "id": "C59BD200-3241-4CD3-9437-AECCEE32967C"
+    }
+  ],
+  "name": "Product Page Screenshot for Context",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

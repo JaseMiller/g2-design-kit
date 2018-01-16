@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "DE0AF591-AB9F-432F-8150-221221B60AC9",
+  "do_objectID": "7941B1A3-0DF8-49F2-8673-CBA56B6A0994",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 873,
     "width": 1421,
-    "x": 4182,
+    "x": 2661,
     "y": -68
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,34 +52,38 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "F6095298-8BB1-44EB-BF89-9D5017F3CCB5"
+      "id": "DAEC2831-36C0-40E2-AA6A-49045200B600"
     },
     {
       "class": "shapeGroup",
-      "id": "5FFE31B1-D5B2-48FB-A8CF-45F2962D9A3E"
+      "id": "CB6A263E-41DD-453D-94C5-F8B5EBDD085B"
     },
     {
       "class": "group",
-      "id": "3D8D29F2-0819-4BC0-9788-E34EFADB92A3"
+      "id": "55C696FB-8280-40A2-B4A8-53EA19B2E29D"
     },
     {
       "class": "group",
-      "id": "75588BDD-A4BE-4B45-85D1-4246A3A52EB6"
+      "id": "F4517CCA-EC2A-4EE9-92C0-C8A0D711F354"
     },
     {
       "class": "text",
-      "id": "AED99318-1F9A-484D-9980-E9FFB18866A3"
+      "id": "921CA60E-80D9-407D-B69A-D6AA79B73CC0"
     },
     {
       "class": "shapeGroup",
-      "id": "44C60A60-16C1-4EFB-83C2-7C46B1B6B139"
+      "id": "EBA1B09A-2718-4B66-9E85-AE43A62789DC"
     },
     {
       "class": "group",
-      "id": "54DF2952-4737-4507-918C-F7B831725C5B"
+      "id": "102D60AA-C158-4CB0-9D12-E649DD5C704A"
+    },
+    {
+      "class": "group",
+      "id": "E7B88A3C-2A2E-4D53-9B8A-847512B4E47E"
     }
   ],
-  "name": "Concept - LinkedIn Connections Panel blue",
+  "name": "Concept - LinkedIn Connections Panel white",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

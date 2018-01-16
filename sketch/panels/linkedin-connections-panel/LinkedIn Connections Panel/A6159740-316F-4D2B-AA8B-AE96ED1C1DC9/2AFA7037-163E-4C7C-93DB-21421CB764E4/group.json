@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "2AFA7037-163E-4C7C-93DB-21421CB764E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1012,
+    "x": 370,
+    "y": 492
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A1FB64FC-5236-4996-9C22-263357D15362"
+    },
+    {
+      "class": "group",
+      "id": "92238C96-4DD5-4BA4-A7EE-97E2BD80C00E"
+    },
+    {
+      "class": "text",
+      "id": "F9BF9725-88F7-41FB-B34A-EA2B50B8B5F1"
+    }
+  ],
+  "name": "LinkedIn Panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

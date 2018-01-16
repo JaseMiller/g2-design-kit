@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "75588BDD-A4BE-4B45-85D1-4246A3A52EB6",
+  "do_objectID": "92238C96-4DD5-4BA4-A7EE-97E2BD80C00E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,40 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 1012,
-    "x": 370,
-    "y": 492
+    "height": 24,
+    "width": 44,
+    "x": 221,
+    "y": 14
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "FDC40C60-4945-411C-BE8B-3F64CDCE1ED5"
-    },
-    {
-      "class": "group",
-      "id": "9796AD54-B249-40B5-AE02-68D253B2EBBC"
-    },
-    {
-      "class": "text",
-      "id": "0C84E339-BC5D-434E-9682-BAD07C76B55D"
-    },
-    {
-      "class": "group",
-      "id": "AC727DF7-FAD8-4429-9DD4-706E4A2E56F4"
-    },
-    {
-      "class": "text",
-      "id": "2449B846-E8A4-455D-AA03-0A84C095497C"
+      "id": "503DA2D1-D2A3-4024-A335-836621D9A7C8"
     }
   ],
-  "name": "LinkedIn Panel",
+  "name": "Toggle Box",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +60,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "A6159740-316F-4D2B-AA8B-AE96ED1C1DC9",
+      "targetArtboardID": "CF481287-11BE-4891-9E04-0575E5DE5565",
       "transition": 0
     }
   }
