@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DE0AF591-AB9F-432F-8150-221221B60AC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 873,
+    "width": 1421,
+    "x": 4182,
+    "y": -68
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F6095298-8BB1-44EB-BF89-9D5017F3CCB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FFE31B1-D5B2-48FB-A8CF-45F2962D9A3E"
+    },
+    {
+      "class": "group",
+      "id": "3D8D29F2-0819-4BC0-9788-E34EFADB92A3"
+    },
+    {
+      "class": "group",
+      "id": "75588BDD-A4BE-4B45-85D1-4246A3A52EB6"
+    },
+    {
+      "class": "text",
+      "id": "AED99318-1F9A-484D-9980-E9FFB18866A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44C60A60-16C1-4EFB-83C2-7C46B1B6B139"
+    },
+    {
+      "class": "group",
+      "id": "54DF2952-4737-4507-918C-F7B831725C5B"
+    }
+  ],
+  "name": "Concept - LinkedIn Connections Panel blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
