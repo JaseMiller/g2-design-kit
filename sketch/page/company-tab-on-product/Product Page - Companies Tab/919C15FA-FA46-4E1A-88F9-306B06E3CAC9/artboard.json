@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "do_objectID": "919C15FA-FA46-4E1A-88F9-306B06E3CAC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1713,
+    "width": 1410,
+    "x": 7202,
+    "y": -166
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C50C9C41-8132-4603-AFA0-5D2134B97F3F"
+    },
+    {
+      "class": "group",
+      "id": "83DD47D1-1025-4323-97FE-47A2F828F1CD"
+    },
+    {
+      "class": "group",
+      "id": "0A38BAB2-9A81-474B-A1D6-76E84D11BDCA"
+    },
+    {
+      "class": "group",
+      "id": "A2F1E716-E0C7-4E09-B406-E4C851D90E0D"
+    },
+    {
+      "class": "group",
+      "id": "18A7A0C8-4983-447D-A126-2C7688F34ECF"
+    },
+    {
+      "class": "group",
+      "id": "F5013DBA-4E95-44EF-BAE7-64290FEEB85A"
+    },
+    {
+      "class": "group",
+      "id": "B4976250-002F-46E8-A4AD-CEEA283407BB"
+    },
+    {
+      "class": "group",
+      "id": "CFCDFBA3-0523-4B81-97B7-156E0501BE5D"
+    },
+    {
+      "class": "group",
+      "id": "22B3CF80-535B-4E87-A205-CFF659CFAA7E"
+    },
+    {
+      "class": "group",
+      "id": "654F1C07-8098-402D-A010-301888C1714D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE5AB70B-E459-4980-8FF9-61339766ACB6"
+    },
+    {
+      "class": "text",
+      "id": "BACE4813-8BFF-410F-94F1-733C7A9513B6"
+    },
+    {
+      "class": "text",
+      "id": "6A2CE228-9D3B-4801-8EDF-6E19A7B7E25D"
+    },
+    {
+      "class": "group",
+      "id": "C8FA3606-5E82-400E-8AA6-EAAC28A8922C"
+    }
+  ],
+  "name": "Product Page 3 - logged in",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
