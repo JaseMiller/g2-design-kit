@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CB0A374B-B370-49F8-83F2-67CC2E122945",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 196,
+    "x": 220,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AE9E90D2-49FB-41AA-98BC-B4B159D2BA2D"
+    },
+    {
+      "class": "text",
+      "id": "AC3413CE-D6B9-4DB5-A6A3-AF4B52D5DE22"
+    }
+  ],
+  "name": "Blue Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

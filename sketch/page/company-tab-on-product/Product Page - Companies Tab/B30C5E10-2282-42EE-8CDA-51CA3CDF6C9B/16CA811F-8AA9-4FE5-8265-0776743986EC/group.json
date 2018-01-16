@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "16CA811F-8AA9-4FE5-8265-0776743986EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 142,
+    "width": 1024,
+    "x": 372,
+    "y": 413
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31266A99-43C6-4DF2-8AE5-61BACFADD96A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1782D9C4-7B98-4E00-97CA-ABB441109D42"
+    },
+    {
+      "class": "text",
+      "id": "DB11BD8F-52AD-4217-A5F3-705386D05273"
+    },
+    {
+      "class": "group",
+      "id": "2CB3DC9F-7756-4061-B821-2044E74926C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "161C8CC0-F34D-4AAF-BC59-2531D1122656"
+    }
+  ],
+  "name": "CTA - Login",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
