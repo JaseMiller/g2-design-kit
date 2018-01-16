@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B4976250-002F-46E8-A4AD-CEEA283407BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 483,
+    "x": 384,
+    "y": 413
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA855304-5AA9-4EB8-9350-659495EEDFE2"
+    },
+    {
+      "class": "text",
+      "id": "10C65354-CBDC-41A4-8D90-CFB0979C9717"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "654027E6-E795-456D-8AA7-5B5AED8EC434"
+    },
+    {
+      "class": "group",
+      "id": "A5BB24A8-5FE1-45D2-83E0-83CCCB559DE5"
+    },
+    {
+      "class": "text",
+      "id": "7A0AAD64-A40B-4891-BBE3-F3CB7226B289"
+    }
+  ],
+  "name": "Company Box - Amazon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
