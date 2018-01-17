@@ -16,7 +16,7 @@
     "height": 733,
     "width": 642,
     "x": 0,
-    "y": 3667
+    "y": 1771
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Small Footer",
   "nameIsFixed": false,
+  "originalObjectID": "12E5445F-42D7-4D3E-BEAB-F11F58B03A8B",
   "overrideValues": [
   ],
   "overrides": {

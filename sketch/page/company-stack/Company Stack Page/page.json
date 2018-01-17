@@ -34,19 +34,15 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "648737B5-1D9B-4991-8C86-6A7076EF245F"
+    },
+    {
+      "class": "artboard",
       "id": "F7524E84-7B26-435B-9B2A-0A96DEF8AEBF"
     },
     {
       "class": "artboard",
       "id": "1EC6F66C-CB2B-41CD-8FAF-7CAA02954782"
-    },
-    {
-      "class": "artboard",
-      "id": "648737B5-1D9B-4991-8C86-6A7076EF245F"
-    },
-    {
-      "class": "group",
-      "id": "D4FFCB8D-6799-4E57-AD82-43F41D8A975C"
     }
   ],
   "name": "Company Stack Page",
