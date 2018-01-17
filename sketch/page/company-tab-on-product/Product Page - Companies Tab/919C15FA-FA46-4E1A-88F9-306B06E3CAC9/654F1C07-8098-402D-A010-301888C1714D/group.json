@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "654F1C07-8098-402D-A010-301888C1714D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 991,
+    "x": 384,
+    "y": 836
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8245B6B-C22E-4652-AECB-A47C66CE343E"
+    },
+    {
+      "class": "group",
+      "id": "CAB4EDA5-BCDF-4800-B705-F8EDCA099904"
+    },
+    {
+      "class": "group",
+      "id": "8FCEF124-BCA3-4115-9ECA-E83FB0406085"
+    },
+    {
+      "class": "text",
+      "id": "AC046119-76F1-40B9-BADC-1962590C9B28"
+    }
+  ],
+  "name": "CTA - Partial Reviews",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
