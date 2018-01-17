@@ -32,11 +32,12 @@
     "version": 97
   },
   "pages": [
-    "LinkedIn Connections Panel"
+    "LinkedIn Connections Panel",
+    "Variations and Play"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13091419,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
     }
   }
 }
