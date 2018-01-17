@@ -1,0 +1,105 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7941B1A3-0DF8-49F2-8673-CBA56B6A0994",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 873,
+    "width": 1421,
+    "x": 2661,
+    "y": -68
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DAEC2831-36C0-40E2-AA6A-49045200B600"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB6A263E-41DD-453D-94C5-F8B5EBDD085B"
+    },
+    {
+      "class": "group",
+      "id": "55C696FB-8280-40A2-B4A8-53EA19B2E29D"
+    },
+    {
+      "class": "group",
+      "id": "F4517CCA-EC2A-4EE9-92C0-C8A0D711F354"
+    },
+    {
+      "class": "text",
+      "id": "921CA60E-80D9-407D-B69A-D6AA79B73CC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBA1B09A-2718-4B66-9E85-AE43A62789DC"
+    },
+    {
+      "class": "group",
+      "id": "102D60AA-C158-4CB0-9D12-E649DD5C704A"
+    },
+    {
+      "class": "group",
+      "id": "E7B88A3C-2A2E-4D53-9B8A-847512B4E47E"
+    }
+  ],
+  "name": "Concept - LinkedIn Connections Panel white",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
