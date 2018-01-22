@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "725FCD2E-502E-4F5F-ADF0-0F6A78CB5EDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1012,
+    "x": 370,
+    "y": 492
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5498E89-338C-4DDC-9ABB-6A39B4345934"
+    },
+    {
+      "class": "group",
+      "id": "C44EA70A-3A61-48DD-9742-181F3F68E6B9"
+    },
+    {
+      "class": "text",
+      "id": "951A1438-09A3-4977-BCF4-8B43C292A63B"
+    },
+    {
+      "class": "group",
+      "id": "52BE327A-B9AD-4C41-8AF8-260245745646"
+    },
+    {
+      "class": "text",
+      "id": "6C0846AC-B8C1-4B19-97B2-3C024164537C"
+    },
+    {
+      "class": "group",
+      "id": "C91D9C9A-2978-4861-90F8-8BE364FD60F5"
+    }
+  ],
+  "name": "LinkedIn Panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "A6159740-316F-4D2B-AA8B-AE96ED1C1DC9",
+      "transition": 0
+    }
+  }
+}
