@@ -34,6 +34,14 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "01E47ACF-AD57-42A2-88D5-12F3BB519A8E"
+    },
+    {
+      "class": "artboard",
+      "id": "F131C821-9062-4390-B13A-CC1A52912F98"
+    },
+    {
+      "class": "artboard",
       "id": "CF481287-11BE-4891-9E04-0575E5DE5565"
     },
     {
@@ -43,6 +51,10 @@
     {
       "class": "artboard",
       "id": "DE0AF591-AB9F-432F-8150-221221B60AC9"
+    },
+    {
+      "class": "artboard",
+      "id": "68BD7DF2-2468-4D46-9D57-6D84B5E22D55"
     }
   ],
   "name": "LinkedIn Connections Panel",

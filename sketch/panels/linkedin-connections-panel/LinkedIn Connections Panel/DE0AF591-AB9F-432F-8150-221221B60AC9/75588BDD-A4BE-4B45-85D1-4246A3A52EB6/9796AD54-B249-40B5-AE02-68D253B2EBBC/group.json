@@ -15,14 +15,14 @@
     "constrainProportions": false,
     "height": 26,
     "width": 110,
-    "x": 278,
+    "x": 451,
     "y": 12
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
