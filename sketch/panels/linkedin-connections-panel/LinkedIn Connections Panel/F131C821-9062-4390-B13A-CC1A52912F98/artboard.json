@@ -7,10 +7,19 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "01E47ACF-AD57-42A2-88D5-12F3BB519A8E",
+  "do_objectID": "F131C821-9062-4390-B13A-CC1A52912F98",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -21,12 +30,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 177,
-    "width": 198,
-    "x": 6385,
+    "width": 295,
+    "x": 5891,
     "y": 1437
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,14 +52,14 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8E09D112-8689-4FD1-B2AB-6CF3A54106E3"
+      "id": "F9871FD8-64F8-4796-AF3D-B82F02805425"
     },
     {
       "class": "symbolInstance",
-      "id": "5FA0CEE8-E800-4F92-A7FF-7D9B336BB496"
+      "id": "719F8035-E698-437F-BA36-2E5CEF0C4510"
     }
   ],
-  "name": "Toggle Design - JA",
+  "name": "Toggle Design - slight improvement",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

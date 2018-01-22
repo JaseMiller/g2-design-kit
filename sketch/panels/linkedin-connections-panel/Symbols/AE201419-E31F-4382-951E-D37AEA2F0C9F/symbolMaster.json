@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "01E47ACF-AD57-42A2-88D5-12F3BB519A8E",
+  "changeIdentifier": 0,
+  "do_objectID": "AE201419-E31F-4382-951E-D37AEA2F0C9F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 177,
-    "width": 198,
-    "x": 6385,
-    "y": 1437
+    "height": 24,
+    "width": 48,
+    "x": 390,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,24 +35,21 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8E09D112-8689-4FD1-B2AB-6CF3A54106E3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5FA0CEE8-E800-4F92-A7FF-7D9B336BB496"
+      "class": "group",
+      "id": "2010A81D-7F88-4CBF-B850-382B873F7B1F"
     }
   ],
-  "name": "Toggle Design - JA",
-  "nameIsFixed": true,
+  "name": "Toggle Box - ON",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,6 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "F5CEAC23-DEDB-43A6-9E9E-9BF8221FCAB9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,9 +1,18 @@
 {
   "_class": "group",
-  "do_objectID": "8C2C22C8-01EB-4930-A361-7F6C1481C881",
+  "do_objectID": "32787CD7-5C86-4058-BE5F-D1D0C03B5143",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,8 +24,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 48,
-    "x": 1310,
-    "y": 505
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +36,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "02D6C59C-E0E5-43D2-BF71-F43B18A343FD"
+      "id": "D59F37B2-5823-43CA-8E9E-AA1FDA5FC5B6"
     },
     {
       "class": "shapeGroup",
-      "id": "DBEC8B8A-AD5F-4734-8E95-3464287B6F1E"
+      "id": "61334C83-62F5-4DC5-85E4-4A6D73BA36F7"
     }
   ],
-  "name": "Toggle Box",
+  "name": "Toggle Box - OFF",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
