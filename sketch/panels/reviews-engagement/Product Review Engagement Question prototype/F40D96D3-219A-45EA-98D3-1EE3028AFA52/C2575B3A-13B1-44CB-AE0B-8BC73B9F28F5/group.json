@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "C2575B3A-13B1-44CB-AE0B-8BC73B9F28F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 90,
+    "x": 1096,
+    "y": 354
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7ED9F949-32DA-484F-B1B8-6CFEC566D856"
+    },
+    {
+      "class": "text",
+      "id": "ECBA257D-D6AB-4ACF-90CE-9CD376154CDB"
+    }
+  ],
+  "name": "FOCUS + Rectangle 10 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 0,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 0,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 3,
+      "overlayTransition": 1,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "3B88BB43-2521-48BA-A90D-135DB42BE230",
+      "transition": 0
+    }
+  }
+}
