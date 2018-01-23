@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "A6159740-316F-4D2B-AA8B-AE96ED1C1DC9",
+  "do_objectID": "F7524E84-7B26-435B-9B2A-0A96DEF8AEBF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 873,
-    "width": 1421,
-    "x": 5703,
-    "y": -68
+    "height": 2509,
+    "width": 1920,
+    "x": 4536,
+    "y": -181
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
