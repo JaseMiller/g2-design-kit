@@ -13,17 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD:sketch/page/company-stack/Company Stack Page/F7524E84-7B26-435B-9B2A-0A96DEF8AEBF/EFA94EEF-F186-4CE7-AE8B-B75CE132E88D/E302E649-360D-4CC1-94BD-27EA5F9D7A33/group.json
+    "height": 318,
+    "width": 1320,
+    "x": 24,
+    "y": 79
+=======
     "height": 26,
     "width": 110,
     "x": 451,
     "y": 12
+>>>>>>> evolve:sketch/panels/linkedin-connections-panel/LinkedIn Connections Panel/DE0AF591-AB9F-432F-8150-221221B60AC9/75588BDD-A4BE-4B45-85D1-4246A3A52EB6/9796AD54-B249-40B5-AE02-68D253B2EBBC/group.json
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
+<<<<<<< HEAD:sketch/page/company-stack/Company Stack Page/F7524E84-7B26-435B-9B2A-0A96DEF8AEBF/EFA94EEF-F186-4CE7-AE8B-B75CE132E88D/E302E649-360D-4CC1-94BD-27EA5F9D7A33/group.json
+  "isVisible": true,
+  "layerListExpandedType": 2,
+=======
   "isVisible": false,
   "layerListExpandedType": 1,
+>>>>>>> evolve:sketch/panels/linkedin-connections-panel/LinkedIn Connections Panel/DE0AF591-AB9F-432F-8150-221221B60AC9/75588BDD-A4BE-4B45-85D1-4246A3A52EB6/9796AD54-B249-40B5-AE02-68D253B2EBBC/group.json
   "layers": [
     {
       "class": "group",
@@ -35,7 +47,15 @@
     },
     {
       "class": "group",
+<<<<<<< HEAD:sketch/page/company-stack/Company Stack Page/F7524E84-7B26-435B-9B2A-0A96DEF8AEBF/EFA94EEF-F186-4CE7-AE8B-B75CE132E88D/E302E649-360D-4CC1-94BD-27EA5F9D7A33/group.json
+      "id": "60F4A1C4-ED02-4E6C-9326-01BACBA4AC44"
+    },
+    {
+      "class": "group",
+      "id": "EC526089-68E9-4654-9C31-33663D539C4A"
+=======
       "id": "EEC594D5-C3BD-4F6B-BEDC-A71326F0314A"
+>>>>>>> evolve:sketch/panels/linkedin-connections-panel/LinkedIn Connections Panel/DE0AF591-AB9F-432F-8150-221221B60AC9/75588BDD-A4BE-4B45-85D1-4246A3A52EB6/9796AD54-B249-40B5-AE02-68D253B2EBBC/group.json
     },
     {
       "class": "group",
