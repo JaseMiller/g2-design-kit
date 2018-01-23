@@ -34,19 +34,27 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "3E62BA45-6F99-4194-BF72-2C4374DE0F18"
+      "id": "01E47ACF-AD57-42A2-88D5-12F3BB519A8E"
     },
     {
       "class": "artboard",
-      "id": "7A8D2342-99C5-4039-969A-316E70732F88"
+      "id": "F131C821-9062-4390-B13A-CC1A52912F98"
     },
     {
       "class": "artboard",
-      "id": "7941B1A3-0DF8-49F2-8673-CBA56B6A0994"
+      "id": "CF481287-11BE-4891-9E04-0575E5DE5565"
+    },
+    {
+      "class": "artboard",
+      "id": "A6159740-316F-4D2B-AA8B-AE96ED1C1DC9"
     },
     {
       "class": "artboard",
       "id": "DE0AF591-AB9F-432F-8150-221221B60AC9"
+    },
+    {
+      "class": "artboard",
+      "id": "68BD7DF2-2468-4D46-9D57-6D84B5E22D55"
     }
   ],
   "name": "LinkedIn Connections Panel",
@@ -60,6 +68,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
