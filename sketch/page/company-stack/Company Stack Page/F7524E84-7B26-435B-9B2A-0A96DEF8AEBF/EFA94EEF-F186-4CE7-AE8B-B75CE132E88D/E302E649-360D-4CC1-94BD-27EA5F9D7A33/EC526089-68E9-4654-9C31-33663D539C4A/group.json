@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 81,
     "width": 1320,
     "x": 0,
-    "y": 161
+    "y": 160
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,16 +38,20 @@
       "id": "38C35CFE-B10C-4A3D-843A-95606700AAAA"
     },
     {
-      "class": "bitmap",
-      "id": "F5F1B773-8B4F-4656-9E2C-15DC57DD3D62"
-    },
-    {
-      "class": "text",
-      "id": "CCAA6D50-97B0-4FB8-8776-58D6EB89473B"
+      "class": "group",
+      "id": "131DC66B-5977-4BB5-A1EA-C0CADD49B72E"
     },
     {
       "class": "group",
-      "id": "131DC66B-5977-4BB5-A1EA-C0CADD49B72E"
+      "id": "99E301F9-90CA-4252-8987-CBB013D1BC93"
+    },
+    {
+      "class": "group",
+      "id": "CD0D3EAD-63DA-4BCB-BCB6-5181E4589946"
+    },
+    {
+      "class": "group",
+      "id": "707BC9BB-9476-49F6-A93E-0AC6E9D617BB"
     }
   ],
   "name": "Item 2",

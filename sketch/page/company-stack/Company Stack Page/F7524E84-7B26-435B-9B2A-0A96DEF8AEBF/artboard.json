@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2009,
+    "height": 2509,
     "width": 1920,
     "x": 4536,
     "y": -181
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -73,6 +73,10 @@
     {
       "class": "group",
       "id": "71D2D149-031B-497B-9809-C7FE46027337"
+    },
+    {
+      "class": "text",
+      "id": "8AF76834-270B-4109-9457-7B1D203D1639"
     }
   ],
   "name": "Company Stack Page – XL",

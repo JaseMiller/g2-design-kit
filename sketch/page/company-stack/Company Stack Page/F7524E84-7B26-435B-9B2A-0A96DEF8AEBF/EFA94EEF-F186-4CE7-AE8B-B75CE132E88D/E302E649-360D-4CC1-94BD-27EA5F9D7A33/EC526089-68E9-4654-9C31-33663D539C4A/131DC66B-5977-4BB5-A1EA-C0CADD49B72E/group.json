@@ -14,15 +14,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 639,
-    "x": 320,
-    "y": 30
+    "width": 518,
+    "x": 592,
+    "y": 31
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {

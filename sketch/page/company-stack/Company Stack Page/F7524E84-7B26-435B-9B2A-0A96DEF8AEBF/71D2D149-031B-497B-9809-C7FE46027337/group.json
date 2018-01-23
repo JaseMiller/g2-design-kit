@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -40,10 +40,6 @@
     {
       "class": "text",
       "id": "7651DF12-FABB-4AED-B113-9C77647ADEE4"
-    },
-    {
-      "class": "text",
-      "id": "61554952-882E-4B00-A751-462593F11E91"
     }
   ],
   "name": "Header Section",
