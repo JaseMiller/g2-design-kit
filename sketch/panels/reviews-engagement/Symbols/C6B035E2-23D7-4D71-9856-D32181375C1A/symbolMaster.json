@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "66E341F1-A589-40FE-A854-26FB02BDE50E",
+  "changeIdentifier": 1,
+  "do_objectID": "C6B035E2-23D7-4D71-9856-D32181375C1A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 873,
-    "width": 1414,
-    "x": 1120,
-    "y": 1228
+    "height": 24,
+    "width": 29,
+    "x": 1021,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,52 +35,21 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "8704F887-8A0F-4DF6-9522-48525ADBEBED"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C9F27BC7-82DC-473A-B71A-B5DB37850735"
-    },
-    {
       "class": "text",
-      "id": "1F784296-9897-4B92-B479-1C277E9B06ED"
-    },
-    {
-      "class": "text",
-      "id": "D4DDDE00-A4A2-4E14-A95A-A2ED42B09A2A"
-    },
-    {
-      "class": "text",
-      "id": "50314D3E-212E-4AB7-B42E-2E56CA1192E8"
-    },
-    {
-      "class": "group",
-      "id": "3F2C782C-193B-4DD1-8C6D-C0C0AE8E4AEF"
-    },
-    {
-      "class": "group",
-      "id": "87D78539-294E-4F7F-BD53-B617A418C075"
-    },
-    {
-      "class": "text",
-      "id": "51D2A647-5378-4D5B-86F1-9F31985A9151"
-    },
-    {
-      "class": "group",
-      "id": "0A871AA3-4CA1-4D4C-BB65-F44AFAB7FA2C"
+      "id": "17469F60-BCFE-4613-8C3F-647213A54654"
     }
   ],
-  "name": "Focus button NO",
-  "nameIsFixed": true,
+  "name": "YES Btn",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,6 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "A11EE98D-9988-440E-980B-671D70B9FF85",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

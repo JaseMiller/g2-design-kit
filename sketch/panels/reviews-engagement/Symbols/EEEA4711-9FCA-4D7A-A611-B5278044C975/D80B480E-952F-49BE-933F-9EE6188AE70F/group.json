@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "C2575B3A-13B1-44CB-AE0B-8BC73B9F28F5",
+  "do_objectID": "D80B480E-952F-49BE-933F-9EE6188AE70F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,27 @@
     "constrainProportions": false,
     "height": 40,
     "width": 90,
-    "x": 1096,
-    "y": 354
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "7ED9F949-32DA-484F-B1B8-6CFEC566D856"
+      "id": "67615235-C52E-4E67-BB1C-0D5D08172FEB"
     },
     {
       "class": "text",
-      "id": "ECBA257D-D6AB-4ACF-90CE-9CD376154CDB"
+      "id": "0F798788-181B-4665-80C6-086045778EA5"
     }
   ],
-  "name": "FOCUS + Rectangle 10 Copy",
-  "nameIsFixed": false,
+  "name": "FOCUS - NO Btn",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,7 +64,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "3B88BB43-2521-48BA-A90D-135DB42BE230",
+      "targetArtboardID": "66E341F1-A589-40FE-A854-26FB02BDE50E",
       "transition": 0
     }
   }

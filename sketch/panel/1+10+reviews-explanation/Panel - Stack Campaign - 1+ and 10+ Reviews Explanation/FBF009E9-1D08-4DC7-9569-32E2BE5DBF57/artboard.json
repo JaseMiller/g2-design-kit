@@ -7,10 +7,19 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "66E341F1-A589-40FE-A854-26FB02BDE50E",
+  "do_objectID": "FBF009E9-1D08-4DC7-9569-32E2BE5DBF57",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,11 +31,11 @@
     "constrainProportions": false,
     "height": 873,
     "width": 1414,
-    "x": 1120,
-    "y": 1228
+    "x": -391,
+    "y": -123
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,46 +48,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "8704F887-8A0F-4DF6-9522-48525ADBEBED"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C9F27BC7-82DC-473A-B71A-B5DB37850735"
+      "class": "bitmap",
+      "id": "E8A67E53-2673-4D4A-9704-E6A2CB65ABF5"
     },
     {
       "class": "text",
-      "id": "1F784296-9897-4B92-B479-1C277E9B06ED"
+      "id": "180FD2F0-6356-48EE-ABFA-D825DE66A87C"
     },
     {
-      "class": "text",
-      "id": "D4DDDE00-A4A2-4E14-A95A-A2ED42B09A2A"
-    },
-    {
-      "class": "text",
-      "id": "50314D3E-212E-4AB7-B42E-2E56CA1192E8"
-    },
-    {
-      "class": "group",
-      "id": "3F2C782C-193B-4DD1-8C6D-C0C0AE8E4AEF"
-    },
-    {
-      "class": "group",
-      "id": "87D78539-294E-4F7F-BD53-B617A418C075"
-    },
-    {
-      "class": "text",
-      "id": "51D2A647-5378-4D5B-86F1-9F31985A9151"
-    },
-    {
-      "class": "group",
-      "id": "0A871AA3-4CA1-4D4C-BB65-F44AFAB7FA2C"
+      "class": "symbolInstance",
+      "id": "72B364A8-8DB5-4DA6-8EF5-9180F5F33605"
     }
   ],
-  "name": "Focus button NO",
+  "name": "Stack Campaign - 1+ and 10+ Reviews Explanation",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -39,39 +48,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "061079B3-AB99-4993-BCD0-F723FDF67FBA"
     },
     {
-      "class": "shapeGroup",
-      "id": "2CC12341-B213-477E-8C3A-62DDDEC9B858"
-    },
-    {
-      "class": "text",
-      "id": "DFE7EA02-EAF6-4409-9F19-F7D26839223E"
-    },
-    {
-      "class": "text",
-      "id": "C2696EC8-BDDF-44C5-962D-5FAE8C42B49A"
-    },
-    {
-      "class": "text",
-      "id": "17469F60-BCFE-4613-8C3F-647213A54654"
-    },
-    {
-      "class": "group",
-      "id": "C2575B3A-13B1-44CB-AE0B-8BC73B9F28F5"
-    },
-    {
-      "class": "group",
-      "id": "D80B480E-952F-49BE-933F-9EE6188AE70F"
-    },
-    {
-      "class": "text",
-      "id": "1013FBF8-0559-4744-81FC-4C07EDA3B436"
+      "class": "symbolInstance",
+      "id": "9516DD14-9C90-440F-92C3-D91997326400"
     },
     {
       "class": "group",
