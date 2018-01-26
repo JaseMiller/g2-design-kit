@@ -39,43 +39,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "41EC577B-F4E2-433C-9EAC-836FE9700D49"
     },
     {
-      "class": "shapeGroup",
-      "id": "365B2048-2550-4EDC-98D4-78F05D8095ED"
-    },
-    {
-      "class": "text",
-      "id": "521A6199-FD82-462F-862A-CC0A38687FB2"
-    },
-    {
-      "class": "text",
-      "id": "BA45C75B-5C71-4B13-81A7-612FD998D953"
-    },
-    {
-      "class": "text",
-      "id": "88E79DBA-0297-4D18-A314-5BC48C078055"
-    },
-    {
-      "class": "group",
-      "id": "C2E3251A-0625-45F2-9B66-0126CB0BE992"
-    },
-    {
-      "class": "group",
-      "id": "B6EBD0AF-AA8C-48EC-A3D8-A4CFAA2604BC"
-    },
-    {
-      "class": "text",
-      "id": "81988C51-1CA9-4A4E-9220-F5C759C75671"
-    },
-    {
       "class": "group",
       "id": "90016180-DA37-4CEA-A682-80BBC8B5F374"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC674F20-DF00-496C-9948-E03E26899EA9"
     }
   ],
   "name": "Focus button YES",

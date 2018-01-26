@@ -1,8 +1,8 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "88322558-21D2-4530-B6EB-377B6F80C05D",
-  "edited": true,
+  "do_objectID": "4EC84CAD-B0D7-46B8-AF24-C8653C372178",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,12 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 90,
+    "height": 49,
+    "width": 318,
     "x": 0,
     "y": 0
   },
@@ -32,11 +32,11 @@
   "path": {
     "_class": "path",
     "isClosed": true,
-    "pointRadiusBehaviour": 0,
+    "pointRadiusBehaviour": 1,
     "points": [
       {
         "_class": "curvePoint",
-        "cornerRadius": 2,
+        "cornerRadius": 0,
         "curveFrom": "{0, 0}",
         "curveMode": 1,
         "curveTo": "{0, 0}",
@@ -46,7 +46,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 2,
+        "cornerRadius": 0,
         "curveFrom": "{1, 0}",
         "curveMode": 1,
         "curveTo": "{1, 0}",

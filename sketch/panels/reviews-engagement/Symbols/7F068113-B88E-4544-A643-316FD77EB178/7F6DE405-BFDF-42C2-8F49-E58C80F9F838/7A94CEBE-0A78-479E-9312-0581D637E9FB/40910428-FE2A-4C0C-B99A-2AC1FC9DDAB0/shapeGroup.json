@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 62,
+    "height": 61,
     "width": 2,
     "x": 158,
     "y": 103
@@ -32,8 +32,8 @@
       "id": "F9D39896-2732-4BA4-89B4-F625D153F83A"
     }
   ],
-  "name": "Line 2",
-  "nameIsFixed": false,
+  "name": "vertical line",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

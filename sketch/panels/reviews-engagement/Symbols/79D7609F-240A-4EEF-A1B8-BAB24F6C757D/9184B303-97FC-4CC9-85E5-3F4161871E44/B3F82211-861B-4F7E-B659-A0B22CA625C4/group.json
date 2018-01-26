@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "80B70101-AF76-4747-B9E7-669A0CF406DB",
+  "do_objectID": "B3F82211-861B-4F7E-B659-A0B22CA625C4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 107,
-    "width": 337,
-    "x": 707,
-    "y": 227
+    "height": 154,
+    "width": 318,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,26 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "64F454A0-C527-4225-9657-78D0062747D0"
+      "id": "9ED2B8BF-3CE5-4D3E-B856-7EA8FF4318B7"
     },
     {
-      "class": "bitmap",
-      "id": "4A72AC72-AAA2-4D8E-874D-2E72BE6A208A"
+      "class": "shapeGroup",
+      "id": "2552C38B-73EA-4113-93A4-E6A1B3387C1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58661D09-51F7-42D1-8A24-0F935C6D1CB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB78AB1D-5A2A-445C-9CD6-69B5ED4D3BBB"
+    },
+    {
+      "class": "text",
+      "id": "045908DE-EB87-4435-B83C-D31F066BECC3"
     }
   ],
-  "name": "Current Stats - screenshot",
+  "name": "Question Container",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
