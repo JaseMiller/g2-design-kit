@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E0767503-D2C1-4BF2-93E5-4875E21DAF2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 154,
+    "width": 318,
+    "x": 1071,
+    "y": 249
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Engagement Question component v2",
+  "nameIsFixed": false,
+  "originalObjectID": "79D7609F-240A-4EEF-A1B8-BAB24F6C757D",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7E1C41F-D34E-4E03-9297-C37403964488",
+      "overrideName": "B0538924-8081-4B03-8A17-493EE2D973D6_stringValue",
+      "value": "Is Trello headed in the right direction?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54204646-1B02-4B9C-A305-597EA4D39714",
+      "overrideName": "9CB9FF38-2F61-44BE-A71D-F66234597050_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD5AC8F-D668-4DB2-9ABD-921832B9C2E9",
+      "overrideName": "6E9C6310-CF56-421F-9A4F-9E29EB0301FF_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "6E9C6310-CF56-421F-9A4F-9E29EB0301FF": {
+      "symbolID": ""
+    },
+    "9CB9FF38-2F61-44BE-A71D-F66234597050": {
+      "symbolID": ""
+    },
+    "B0538924-8081-4B03-8A17-493EE2D973D6": "Is Trello headed in the right direction?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0DE00CA-4ACB-4728-BDCB-E3A53F3FED5B",
+  "verticalSpacing": 0
+}
