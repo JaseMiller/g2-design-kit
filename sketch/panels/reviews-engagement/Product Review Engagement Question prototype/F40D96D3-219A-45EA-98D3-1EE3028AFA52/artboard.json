@@ -35,7 +35,7 @@
     "y": -175
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,11 +56,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9516DD14-9C90-440F-92C3-D91997326400"
+      "id": "E0767503-D2C1-4BF2-93E5-4875E21DAF2B"
     },
     {
       "class": "group",
       "id": "80B70101-AF76-4747-B9E7-669A0CF406DB"
+    },
+    {
+      "class": "group",
+      "id": "F45EAE1E-0238-4AD6-BAF2-16A7BF29381A"
     }
   ],
   "name": "Engagement Question - embedded",

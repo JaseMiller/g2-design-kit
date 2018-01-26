@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 17,
   "do_objectID": "C6B035E2-23D7-4D71-9856-D32181375C1A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "YES Btn",
   "nameIsFixed": false,
+  "originalObjectID": "C6B035E2-23D7-4D71-9856-D32181375C1A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

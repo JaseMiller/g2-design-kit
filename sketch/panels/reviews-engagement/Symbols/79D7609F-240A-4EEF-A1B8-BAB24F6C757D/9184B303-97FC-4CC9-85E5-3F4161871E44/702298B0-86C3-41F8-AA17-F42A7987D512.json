@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "F36B0E78-4959-44AC-B973-015AE421AE42",
+  "do_objectID": "702298B0-86C3-41F8-AA17-F42A7987D512",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 29,
-    "x": 65,
-    "y": 120
+    "x": 54,
+    "y": 108
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "YES Btn",
   "nameIsFixed": false,
-  "originalObjectID": "F36B0E78-4959-44AC-B973-015AE421AE42",
+  "originalObjectID": "702298B0-86C3-41F8-AA17-F42A7987D512",
   "overrideValues": [
   ],
   "overrides": {

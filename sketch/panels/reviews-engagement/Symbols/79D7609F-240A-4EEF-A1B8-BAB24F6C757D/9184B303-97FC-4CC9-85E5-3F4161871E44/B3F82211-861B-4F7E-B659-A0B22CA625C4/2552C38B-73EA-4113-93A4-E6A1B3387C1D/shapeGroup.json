@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "2CC12341-B213-477E-8C3A-62DDDEC9B858",
+  "do_objectID": "2552C38B-73EA-4113-93A4-E6A1B3387C1D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,26 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 165,
+    "height": 49,
     "width": 318,
     "x": 0,
-    "y": 0
+    "y": 89
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "AFC6DE97-7377-4D0E-881C-CFAE1D3CEB0D"
+      "id": "4EC84CAD-B0D7-46B8-AF24-C8653C372178"
     }
   ],
-  "name": "Paper Container",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,16 +46,21 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7333333333333333,
-          "green": 0.596078431372549,
-          "red": 0.1725490196078431
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
+        "isEnabled": false,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.8396739130434783
+    },
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.4509803921568628,
+          "green": 0.3882352941176471,
+          "red": 0.2666666666666666
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,28 +81,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.12,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "windingRule": 1

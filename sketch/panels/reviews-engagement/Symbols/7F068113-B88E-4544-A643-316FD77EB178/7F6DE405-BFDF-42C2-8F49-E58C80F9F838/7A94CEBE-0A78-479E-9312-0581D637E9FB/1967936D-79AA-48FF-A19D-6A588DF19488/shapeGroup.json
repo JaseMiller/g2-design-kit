@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 2.000000000000001,
-    "width": 318,
-    "x": 0,
+    "width": 316,
+    "x": 1,
     "y": 101
   },
   "hasClickThrough": false,
@@ -32,8 +32,8 @@
       "id": "2DFFE644-350C-4234-9E80-E39C395530C9"
     }
   ],
-  "name": "Line",
-  "nameIsFixed": false,
+  "name": "horizontal line",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
