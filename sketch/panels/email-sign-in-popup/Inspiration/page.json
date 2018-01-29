@@ -1,0 +1,79 @@
+{
+  "_class": "page",
+  "do_objectID": "ED140292-A5C5-4F63-B0C0-1DDAE069D451",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -277,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "61308467-4789-47DC-9DBF-15D81B1768AF"
+    },
+    {
+      "class": "artboard",
+      "id": "9035B668-BA26-4707-9430-09E55C8B14A6"
+    },
+    {
+      "class": "artboard",
+      "id": "7C581916-CD8C-4B25-B237-438D2F5A3013"
+    },
+    {
+      "class": "artboard",
+      "id": "2BCCBCAD-EFA9-43DB-B81F-FD8CE7D2DB95"
+    },
+    {
+      "class": "artboard",
+      "id": "CD4B6C21-D2C4-4BE8-974E-7EC3DA3C24FC"
+    }
+  ],
+  "name": "Inspiration",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -206,
+    "guides": [
+    ]
+  }
+}
