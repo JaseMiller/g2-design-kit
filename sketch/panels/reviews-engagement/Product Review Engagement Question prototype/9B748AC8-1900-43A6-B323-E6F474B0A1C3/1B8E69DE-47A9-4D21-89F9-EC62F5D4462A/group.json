@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "E6DD8F10-A134-4DEE-9F19-0D0A9876FE3B",
+  "do_objectID": "1B8E69DE-47A9-4D21-89F9-EC62F5D4462A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 184,
-    "x": 1139,
-    "y": 354
+    "height": 154,
+    "width": 318,
+    "x": 1072,
+    "y": 253
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "3CF15963-D2F7-407C-83C2-6BCE2C682053"
+      "class": "symbolInstance",
+      "id": "FCE00AE8-327D-4353-910D-BB48F865C480"
     },
     {
-      "class": "text",
-      "id": "6206E4BC-1D07-4048-B807-1E506F0FB102"
+      "class": "group",
+      "id": "33DBF4D4-7DD1-433C-8B0D-AB5D1E000834"
     }
   ],
-  "name": "FOCUS + Rectangle 10 Copy",
-  "nameIsFixed": false,
+  "name": "Feedback box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -49,22 +49,22 @@
   "userInfo": {
     "com.invision.prototype": {
       "backgroundOpacity": 0,
-      "closeOnClickOutside": 0,
+      "closeOnClickOutside": 1,
       "componentType": "SRLink",
-      "fixOverlayPosition": 0,
-      "gesture": 1,
+      "fixOverlayPosition": 1,
+      "gesture": 0,
       "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterGesture": 1,
       "maintainScrollPositionAfterRedirect": 0,
       "openURLInNewWindow": 0,
-      "overlayPosition": 3,
-      "overlayTransition": 1,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
       "redirectAfter": 0,
       "reverseTransitionOnClose": 1,
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "6DE2F364-3FA1-48CA-ABC6-8EEB4428C3C8",
+      "targetArtboardID": "BE100E56-620B-41C3-A2C9-EBEAD624A434",
       "transition": 0
     }
   }

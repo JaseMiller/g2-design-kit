@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "B4B2D1D2-D874-43F6-AC5A-C2B8BBB71B62",
+  "do_objectID": "317C3733-2C4B-4959-8F8C-7B2349752B9D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 165,
-    "width": 318,
-    "x": 1072,
-    "y": 253
+    "height": 13,
+    "width": 270,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "ECC5E42B-C64C-4C8A-8B91-028DC6157D22"
+      "id": "958C9A84-6836-4233-AA24-FFD40B2F651C"
     }
   ],
-  "name": "Rectangle 2",
+  "name": "Rectangle 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9176470588235294,
+          "green": 0.9058823529411765,
+          "red": 0.8705882352941177
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,28 +76,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.12,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "windingRule": 1

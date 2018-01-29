@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E0767503-D2C1-4BF2-93E5-4875E21DAF2B",
+  "do_objectID": "FCE00AE8-327D-4353-910D-BB48F865C480",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 154,
     "width": 318,
-    "x": 1071,
-    "y": 249
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -34,31 +34,49 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C7E1C41F-D34E-4E03-9297-C37403964488",
+      "do_objectID": "B00ADCFC-A25D-40F0-921E-DA96930B677A",
       "overrideName": "B0538924-8081-4B03-8A17-493EE2D973D6_stringValue",
-      "value": "Is Trello headed in the right direction?"
+      "value": "88% of users agree with you."
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "54204646-1B02-4B9C-A305-597EA4D39714",
+      "do_objectID": "FADB67C1-24FA-4D79-857E-A410AE19A40E",
       "overrideName": "9CB9FF38-2F61-44BE-A71D-F66234597050_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8CD5AC8F-D668-4DB2-9ABD-921832B9C2E9",
-      "overrideName": "6E9C6310-CF56-421F-9A4F-9E29EB0301FF_symbolID",
+      "do_objectID": "3330042C-EA29-4A56-A77C-28C90C39F1D3",
+      "overrideName": "702298B0-86C3-41F8-AA17-F42A7987D512_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76C80B70-D18C-4EAA-89A4-71FB97C94D07",
+      "overrideName": "6E9C6310-CF56-421F-9A4F-9E29EB0301FF/0F798788-181B-4665-80C6-086045778EA5_stringValue",
+      "value": "NEXT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09C46B33-5B6B-4795-9BC1-E94A8C6AC698",
+      "overrideName": "3EBE76E0-961C-462D-8FEF-D921C73C59E0_symbolID",
       "value": ""
     }
   ],
   "overrides": {
+    "3EBE76E0-961C-462D-8FEF-D921C73C59E0": {
+      "symbolID": ""
+    },
     "6E9C6310-CF56-421F-9A4F-9E29EB0301FF": {
+      "0F798788-181B-4665-80C6-086045778EA5": "NEXT"
+    },
+    "702298B0-86C3-41F8-AA17-F42A7987D512": {
       "symbolID": ""
     },
     "9CB9FF38-2F61-44BE-A71D-F66234597050": {
       "symbolID": ""
     },
-    "B0538924-8081-4B03-8A17-493EE2D973D6": "Is Trello headed in the right direction?"
+    "B0538924-8081-4B03-8A17-493EE2D973D6": "88% of users agree with you."
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,27 +90,5 @@
     "startDecorationType": 0
   },
   "symbolID": "F0DE00CA-4ACB-4728-BDCB-E3A53F3FED5B",
-  "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 1,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "9B748AC8-1900-43A6-B323-E6F474B0A1C3",
-      "transition": 0
-    }
-  },
   "verticalSpacing": 0
 }

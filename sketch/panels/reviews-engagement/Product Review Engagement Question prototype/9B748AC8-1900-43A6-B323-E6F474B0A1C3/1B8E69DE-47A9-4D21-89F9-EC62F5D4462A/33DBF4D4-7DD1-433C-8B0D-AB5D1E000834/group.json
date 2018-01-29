@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "244458AE-6FBB-46D3-9A72-2318E3B742A6",
+  "do_objectID": "33DBF4D4-7DD1-433C-8B0D-AB5D1E000834",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 90,
-    "x": 1276,
-    "y": 354
+    "height": 13,
+    "width": 270,
+    "x": 24,
+    "y": 63
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E8BA863B-F17D-4F5A-AC8C-255B8263CBBF"
+      "id": "317C3733-2C4B-4959-8F8C-7B2349752B9D"
     },
     {
-      "class": "text",
-      "id": "AFA4BAB1-A316-47C2-8CE6-B8535347503C"
+      "class": "shapeGroup",
+      "id": "5CD2E100-9F6B-4232-BE67-8295CD0522C1"
     }
   ],
-  "name": "FOCUS + Rectangle 10 Copy",
-  "nameIsFixed": false,
+  "name": "Stat graph",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,7 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
   }
 }
