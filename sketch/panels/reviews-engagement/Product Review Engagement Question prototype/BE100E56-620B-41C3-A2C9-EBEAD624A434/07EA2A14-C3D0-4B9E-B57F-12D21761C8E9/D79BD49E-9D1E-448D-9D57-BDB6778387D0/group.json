@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "244458AE-6FBB-46D3-9A72-2318E3B742A6",
+  "do_objectID": "D79BD49E-9D1E-448D-9D57-BDB6778387D0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +13,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 90,
-    "x": 1276,
-    "y": 354
+    "height": 154,
+    "width": 318,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E8BA863B-F17D-4F5A-AC8C-255B8263CBBF"
+      "id": "D811C9C6-B5E6-445F-BBF3-C67EFDE6BC21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF62BCE3-66FC-4713-8D4E-510BE7F024AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3278C734-E892-4C38-81CA-BBF94A5F0D70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDA6A704-D919-4045-A460-714BA6017CA9"
     },
     {
       "class": "text",
-      "id": "AFA4BAB1-A316-47C2-8CE6-B8535347503C"
+      "id": "4349BE1B-68DC-43AA-853C-DE78F78BAB35"
     }
   ],
-  "name": "FOCUS + Rectangle 10 Copy",
-  "nameIsFixed": false,
+  "name": "Question Container",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,7 +57,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
   }
 }

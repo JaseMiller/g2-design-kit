@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,11 +31,11 @@
     "constrainProportions": false,
     "height": 873,
     "width": 1414,
-    "x": 6338,
-    "y": -175
+    "x": 5541,
+    "y": -2957
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,39 +48,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "BFF93F28-2F55-4F32-B83D-1E9A72200F28"
     },
     {
-      "class": "shapeGroup",
-      "id": "24F4CDBF-83EB-4287-97A6-13293A0C108C"
-    },
-    {
-      "class": "text",
-      "id": "C37D9C66-09EC-4550-BF31-66A827DFEF81"
-    },
-    {
-      "class": "text",
-      "id": "B83EAD37-7F58-4496-B39F-12AC74CCC87B"
-    },
-    {
-      "class": "text",
-      "id": "DD93578A-5431-4533-994F-3FD6635859BB"
-    },
-    {
       "class": "group",
-      "id": "E6DD8F10-A134-4DEE-9F19-0D0A9876FE3B"
-    },
-    {
-      "class": "text",
-      "id": "3A0C98F4-F72B-4DE6-AD85-D49839DD1C4C"
+      "id": "BFECBD19-05BA-44A2-A896-A0800A48852A"
     },
     {
       "class": "group",
       "id": "95EF8349-F693-4F8B-92B0-5DD927455E32"
+    },
+    {
+      "class": "group",
+      "id": "07EA2A14-C3D0-4B9E-B57F-12D21761C8E9"
     }
   ],
   "name": "Engagement Question REVIEW - embedded",

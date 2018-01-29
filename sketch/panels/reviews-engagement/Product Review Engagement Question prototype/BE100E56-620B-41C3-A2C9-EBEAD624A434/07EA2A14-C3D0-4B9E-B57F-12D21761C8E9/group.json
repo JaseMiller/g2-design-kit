@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "07EA2A14-C3D0-4B9E-B57F-12D21761C8E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 154,
+    "width": 318,
+    "x": 1072,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D79BD49E-9D1E-448D-9D57-BDB6778387D0"
+    },
+    {
+      "class": "text",
+      "id": "8650FE4F-3BCB-42EF-971F-8A9647CE92D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B731B666-5F83-43DF-9A93-E673E047DF14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3CD6E81-39A9-4C29-8A33-ACCB90FD808A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F63202FA-7845-4D06-A583-5C6D81C3D9BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E45B720-55DC-448F-A616-107316089A7B"
+    }
+  ],
+  "name": "Engagement Question component",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

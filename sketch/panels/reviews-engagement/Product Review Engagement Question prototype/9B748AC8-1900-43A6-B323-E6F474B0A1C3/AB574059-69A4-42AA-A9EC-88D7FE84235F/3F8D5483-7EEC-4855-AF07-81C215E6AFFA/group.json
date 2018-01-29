@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "244458AE-6FBB-46D3-9A72-2318E3B742A6",
+  "do_objectID": "3F8D5483-7EEC-4855-AF07-81C215E6AFFA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,23 @@
     "constrainProportions": false,
     "height": 40,
     "width": 90,
-    "x": 1276,
-    "y": 354
+    "x": 204,
+    "y": 101
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E8BA863B-F17D-4F5A-AC8C-255B8263CBBF"
+      "id": "C4F124F9-2E17-41E8-A40C-8C551EC5F98E"
     },
     {
       "class": "text",
-      "id": "AFA4BAB1-A316-47C2-8CE6-B8535347503C"
+      "id": "4CC029EF-9851-4559-A88E-FA8A70DE2382"
     }
   ],
   "name": "FOCUS + Rectangle 10 Copy",
