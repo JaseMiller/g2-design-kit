@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "5e0182b1-0132-11e8-934c-b991c8813648",
+  "do_objectID": "305dbea0-02e0-11e8-934c-b991c8813648",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -28,11 +28,12 @@
   "meta": {
     "appVersion": "48.2",
     "build": 47327,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
     "version": 97
   },
   "pages": [
-    "Panel - Stack Campaign - 1+ and 10+ Reviews Explanation",
+    "Sign In Popup",
+    "Inspiration",
     "Symbols"
   ],
   "userInfo": {

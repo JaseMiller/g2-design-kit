@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.7852625425170068,
+    "green": 0.7852625425170068,
+    "red": 0.7852625425170068
+  },
+  "do_objectID": "A0BC15AD-42D8-4C5D-8B1D-0017B489FFB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 655,
+    "width": 618,
+    "x": 1572,
+    "y": -92
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BA91D1EF-8273-4611-A3A6-8410F6FB4796"
+    },
+    {
+      "class": "text",
+      "id": "C7A572BA-4A66-4A11-B032-A4145F2BB489"
+    },
+    {
+      "class": "text",
+      "id": "8A272D43-E2FE-404B-B376-171383382B97"
+    },
+    {
+      "class": "group",
+      "id": "509A1E8B-F38F-49F3-A8E0-6EC0F99F14AC"
+    },
+    {
+      "class": "group",
+      "id": "480DAA27-5276-4AA9-AEE7-153AAB2D45E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CA8E877-CF2B-43AC-ABF6-C56921CCB12C"
+    },
+    {
+      "class": "group",
+      "id": "313B9410-A7B0-434F-A054-E0B5320F457A"
+    },
+    {
+      "class": "group",
+      "id": "AD6C5E63-9961-48D1-AEC3-1CA57415D070"
+    },
+    {
+      "class": "group",
+      "id": "CDCD45A5-3F65-402A-9EAC-4260E13C7782"
+    }
+  ],
+  "name": "Sign In Popup",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
