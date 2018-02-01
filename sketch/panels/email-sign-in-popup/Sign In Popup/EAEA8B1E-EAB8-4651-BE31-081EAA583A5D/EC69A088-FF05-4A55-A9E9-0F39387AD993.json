@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EC69A088-FF05-4A55-A9E9-0F39387AD993",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 90,
+    "x": 264,
+    "y": 619
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "BTN / Focus + No Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A4E8D55-A755-4C70-A756-CC3E5BF6796D",
+      "overrideName": "33CBE6E3-4201-415D-9290-D4A80EF1B780/83E5E0C7-AAEF-4EBE-8607-5B5FE9F7AFC5_stringValue",
+      "value": "CONTINUE"
+    }
+  ],
+  "overrides": {
+    "33CBE6E3-4201-415D-9290-D4A80EF1B780": {
+      "83E5E0C7-AAEF-4EBE-8607-5B5FE9F7AFC5": "CONTINUE"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D8816B7-C95F-4615-B4A7-708166A34849",
+  "verticalSpacing": 0
+}

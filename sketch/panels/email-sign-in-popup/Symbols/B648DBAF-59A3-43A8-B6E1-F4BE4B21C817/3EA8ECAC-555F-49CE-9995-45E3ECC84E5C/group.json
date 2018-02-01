@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3EA8ECAC-555F-49CE-9995-45E3ECC84E5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 490,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA2CA703-03EC-4173-AD0C-8ACBF0B9CFF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27C3BE0A-748C-4B2F-A7D6-34E207D419DC"
+    },
+    {
+      "class": "text",
+      "id": "45546493-3B52-45D8-A215-652DF6E2FC58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "957A2CB5-06CB-490D-A4A3-CF9ED5BFE8D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA6887FB-2D54-4733-BEFC-C2D8AFA5E216"
+    }
+  ],
+  "name": "Input - full column width",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
