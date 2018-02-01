@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "03D8727E-3319-468A-9212-002478CBCCD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 82.00000000000001,
+    "x": 125,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "038009EA-0929-4772-8857-7DC36BAA9BFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E72D111-B690-4379-B62A-8D9901069499"
+    }
+  ],
+  "name": "Software Categories Dropdown Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "010DFAC4-64A7-48F1-B991-9281394EB3CB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
