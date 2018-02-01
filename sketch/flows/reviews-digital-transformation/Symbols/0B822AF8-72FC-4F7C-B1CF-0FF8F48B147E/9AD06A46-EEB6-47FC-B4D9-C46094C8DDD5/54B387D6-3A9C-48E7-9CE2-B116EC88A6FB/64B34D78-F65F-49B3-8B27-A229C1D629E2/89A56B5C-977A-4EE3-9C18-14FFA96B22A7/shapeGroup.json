@@ -1,0 +1,49 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "89A56B5C-977A-4EE3-9C18-14FFA96B22A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29.96696498054474,
+    "width": 107.1406932478461,
+    "x": 0.006994408116442597,
+    "y": 0.02603112840469229
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5564CDD9-299A-4E95-9ACE-44F46825C07A"
+    }
+  ],
+  "name": "Clip 2",
+  "nameIsFixed": false,
+  "originalObjectID": "EA95E7DB-F0D2-4A0F-A2C7-AE914C481B87",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
