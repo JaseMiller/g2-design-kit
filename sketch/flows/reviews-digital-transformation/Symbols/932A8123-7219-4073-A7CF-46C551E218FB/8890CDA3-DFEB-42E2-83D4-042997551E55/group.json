@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8890CDA3-DFEB-42E2-83D4-042997551E55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 952,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "76A079E0-B9F9-4351-BF8F-62ED2ADBEFC7"
+    },
+    {
+      "class": "text",
+      "id": "699DAB19-B4EF-417A-A6E3-EF61CB2CDA41"
+    },
+    {
+      "class": "text",
+      "id": "B7A864C7-498F-4EF6-88FB-3A1AF7D9C5E0"
+    }
+  ],
+  "name": "Survey Status Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
