@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2,
+  "changeIdentifier": 7,
   "do_objectID": "564E3B01-F3F1-44F9-904E-39488032B104",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "Circle / Current Question",
   "nameIsFixed": true,
+  "originalObjectID": "564E3B01-F3F1-44F9-904E-39488032B104",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

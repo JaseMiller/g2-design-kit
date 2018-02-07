@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "25F8B7D4-2618-40A3-AD8B-C412B2D0F388",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 952,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4D0B7D69-8A40-478E-A3DF-1A64A258B560"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33FA43B2-FC50-4DEE-916C-0B87AE8379CB"
+    },
+    {
+      "class": "group",
+      "id": "62E82640-CA78-4B50-9109-5F4120C19135"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C53CF5A-E6E9-42E4-81F7-3020FF98DEB5"
+    }
+  ],
+  "name": "Survey Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

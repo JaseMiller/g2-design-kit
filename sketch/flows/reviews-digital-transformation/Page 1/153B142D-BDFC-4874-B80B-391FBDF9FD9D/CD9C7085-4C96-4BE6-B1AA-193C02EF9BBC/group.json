@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "do_objectID": "CD9C7085-4C96-4BE6-B1AA-193C02EF9BBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 169,
+    "x": 36,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB282FC1-72D2-4BED-9163-F018B74B4019"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88BA8C4B-ED07-4832-AFF9-220709D85309"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "525CFF2B-C9DA-46B8-B862-87DE759CCFBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FB340BE-1D6D-428E-B8BF-424B4ED1F9D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "779084BE-8583-4EA1-9269-AB318FEDE5C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DAD2455-BB23-4643-ADC5-7F87016486D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B5B1A6E-5F75-4402-AFA4-F2B36DA0CD1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB0BB065-93BB-49F1-9A8B-767B45AAB9C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00FA1902-7E70-42AB-9BBD-0C5F424C560F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "576F8FBC-D413-47A8-9206-56B00C5A5F82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E8D6554-B974-4C37-ADD5-FE8421704EE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED95EE50-4AB1-4BF9-917B-41AAC9D04A2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29420A3B-F0F9-4D59-9D43-BF0F25665102"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9AD543E-4589-4598-8C4F-B3C22E67D754"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A3908EC-4148-456A-BC28-BDC4CDC118EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F64EBC34-D8B6-4C40-9BF9-E95B543EC89B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D703534B-5CC5-493C-8DF6-B6B027447E58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2A638F9-4B79-4696-931E-66744413E4D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31999B81-44A5-44C8-B996-E6D52CA1A36E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5569CB08-B870-44FF-82DF-40DFE4BC37D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDFF1C74-CC83-489D-B703-72DE4E30B05A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7173F28D-A1AD-4E54-A9CD-6A9853140A47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E307EBF3-62C1-4753-BEED-1CEFBD9D7F8C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E446C137-7D5A-44A9-AEF0-4B002B3F8A33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6FFF9B9-D7DD-4114-A0EB-406DF0039BE7"
+    }
+  ],
+  "name": "rrdonnelley-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

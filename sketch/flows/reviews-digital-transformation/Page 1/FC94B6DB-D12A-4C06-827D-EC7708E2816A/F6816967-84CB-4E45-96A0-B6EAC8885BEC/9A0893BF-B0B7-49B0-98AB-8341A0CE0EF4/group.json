@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "9A0893BF-B0B7-49B0-98AB-8341A0CE0EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 115,
+    "width": 952,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "50F4EAC4-449F-478B-8565-F13927255945"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B297A8E-BE01-4933-B005-89A68776E21C"
+    }
+  ],
+  "name": "Current Question BG",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
