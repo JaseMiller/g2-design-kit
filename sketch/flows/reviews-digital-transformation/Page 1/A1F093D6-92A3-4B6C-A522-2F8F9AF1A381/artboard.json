@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 2597,
     "width": 1024,
     "x": -324,
     "y": -281
@@ -39,55 +39,87 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8375B236-AB27-498C-801C-A403E2B47284"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7EB2BAFE-8A86-43C1-BBE9-195FA07A711C"
+      "class": "symbolInstance",
+      "id": "97364F29-DBC4-4814-B8A8-C0BD05EF6CA5"
     },
     {
       "class": "group",
-      "id": "F5B81CD3-4CB4-48AA-8F5C-ED73A26FF0EA"
+      "id": "B34D5C75-3205-400A-8955-8647F216E023"
     },
     {
-      "class": "symbolInstance",
-      "id": "44F8DF1C-D107-4A3A-99E5-E656EB0AF739"
+      "class": "group",
+      "id": "09B2F4AC-9D4C-4D8C-9496-A8266825778A"
     },
     {
-      "class": "shapeGroup",
-      "id": "7DCCD9DD-2E42-4F48-A9AA-9316CEE29AA4"
+      "class": "group",
+      "id": "473FC0AA-8C5C-4C17-83BA-492CA7C803E4"
     },
     {
-      "class": "shapeGroup",
-      "id": "4AF1FB7E-996C-44F0-B63B-AF3CD33699F4"
+      "class": "group",
+      "id": "32CBB227-C383-4544-9B99-C8E3D2F5553F"
     },
     {
-      "class": "text",
-      "id": "278317DF-4406-4945-A905-4624448F6F66"
+      "class": "group",
+      "id": "35065DDA-FA02-4ACE-BF17-544CA902A96F"
     },
     {
-      "class": "text",
-      "id": "57B8ABFC-C441-4CA7-B707-A333D94F2FFC"
+      "class": "group",
+      "id": "17EEBAE5-C7C7-403B-8E29-A5D6CB9ADCA2"
     },
     {
-      "class": "symbolInstance",
-      "id": "3BA3B48E-8C03-46F2-AE7D-923A9AFEC5D8"
+      "class": "group",
+      "id": "0D945698-42F1-45A3-A3EC-B6CF86E778CE"
     },
     {
-      "class": "shapeGroup",
-      "id": "CB3BCA2C-73AD-4BC5-87F6-2ECCEEA5824F"
+      "class": "group",
+      "id": "6B23CA99-2961-4D0F-B7C6-CA7EF66C741B"
+    },
+    {
+      "class": "group",
+      "id": "9049380A-BD29-48FC-9C90-6583C89539DF"
+    },
+    {
+      "class": "group",
+      "id": "EEFEE9DF-5219-4D9B-A7D7-8E853B42107F"
+    },
+    {
+      "class": "group",
+      "id": "7AF4947B-9814-4901-BCD9-BDEF4C9E6651"
+    },
+    {
+      "class": "group",
+      "id": "9FA0CB74-A921-4B35-A377-B786277A360E"
+    },
+    {
+      "class": "group",
+      "id": "9B0DCD41-6AEE-4BE3-B523-16666BFF7B13"
+    },
+    {
+      "class": "group",
+      "id": "75BE5935-4DAB-4BFA-BABF-6227DFC4311C"
+    },
+    {
+      "class": "group",
+      "id": "85F2B2EB-B8BD-4EE4-95E8-9F71406A096D"
+    },
+    {
+      "class": "group",
+      "id": "FB070C51-EAE9-4A92-9661-BEB0429AA9C7"
     },
     {
       "class": "group",
       "id": "8B1E96BF-4C99-411B-9A27-AF1EF945237F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4D9B5E1-8D12-4674-926B-87B4B86F6BFC"
     }
   ],
-  "name": "Desktop",
-  "nameIsFixed": false,
+  "name": "Question 2 - (first q is pre-selected)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -121,6 +153,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      944
     ]
   }
 }

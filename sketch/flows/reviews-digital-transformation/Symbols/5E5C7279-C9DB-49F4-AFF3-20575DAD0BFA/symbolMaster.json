@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 2,
   "do_objectID": "5E5C7279-C9DB-49F4-AFF3-20575DAD0BFA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Circle / Question",
   "nameIsFixed": false,
+  "originalObjectID": "5E5C7279-C9DB-49F4-AFF3-20575DAD0BFA",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

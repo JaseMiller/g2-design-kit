@@ -25,14 +25,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
       "id": "DAB5B1B2-BF1E-4FA1-927B-1071EE22B48D"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E14B7E2-E778-4A61-ADA7-59AB98A3D1A0"
     }
   ],
-  "name": "Oval",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

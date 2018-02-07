@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 102,
   "do_objectID": "80D4A12E-8FB1-4B42-A7E1-7FFEA5642AEF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,11 +45,16 @@
   "layers": [
     {
       "class": "shapeGroup",
+      "id": "69A18907-D879-47D8-99C2-9B88A0C62815"
+    },
+    {
+      "class": "shapeGroup",
       "id": "629475B3-517F-4C87-BA95-6E8A6385D28A"
     }
   ],
   "name": "Circle / Completed Question",
   "nameIsFixed": true,
+  "originalObjectID": "80D4A12E-8FB1-4B42-A7E1-7FFEA5642AEF",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
