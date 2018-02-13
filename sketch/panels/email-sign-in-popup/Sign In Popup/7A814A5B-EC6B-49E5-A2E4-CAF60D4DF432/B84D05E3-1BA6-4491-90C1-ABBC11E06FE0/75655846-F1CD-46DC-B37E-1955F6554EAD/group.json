@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "75655846-F1CD-46DC-B37E-1955F6554EAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 178,
+    "x": 81,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8E6EEB5E-47C1-488A-ACCF-A99F64237C7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40E8CD5C-005A-45E7-8C1D-2E0159E1C9D2"
+    }
+  ],
+  "name": "Why no password line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
