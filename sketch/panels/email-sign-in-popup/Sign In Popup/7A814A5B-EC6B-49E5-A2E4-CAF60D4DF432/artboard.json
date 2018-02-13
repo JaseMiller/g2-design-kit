@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.7852625425170068,
-    "green": 0.7852625425170068,
-    "red": 0.7852625425170068
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "do_objectID": "A0BC15AD-42D8-4C5D-8B1D-0017B489FFB7",
+  "do_objectID": "7A814A5B-EC6B-49E5-A2E4-CAF60D4DF432",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 655,
-    "width": 618,
-    "x": -5,
-    "y": -2163
+    "height": 569,
+    "width": 956,
+    "x": 1450,
+    "y": -1591
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -51,47 +51,19 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "BA91D1EF-8273-4611-A3A6-8410F6FB4796"
-    },
-    {
       "class": "text",
-      "id": "C7A572BA-4A66-4A11-B032-A4145F2BB489"
-    },
-    {
-      "class": "text",
-      "id": "8A272D43-E2FE-404B-B376-171383382B97"
+      "id": "A1F5CA63-B02E-4389-B2DE-41901EF5FD2E"
     },
     {
       "class": "group",
-      "id": "509A1E8B-F38F-49F3-A8E0-6EC0F99F14AC"
+      "id": "89D92DA3-84BA-4CFB-9DD0-A0FEA7915428"
     },
     {
       "class": "group",
-      "id": "480DAA27-5276-4AA9-AEE7-153AAB2D45E2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5CA8E877-CF2B-43AC-ABF6-C56921CCB12C"
-    },
-    {
-      "class": "group",
-      "id": "313B9410-A7B0-434F-A054-E0B5320F457A"
-    },
-    {
-      "class": "group",
-      "id": "AD6C5E63-9961-48D1-AEC3-1CA57415D070"
-    },
-    {
-      "class": "group",
-      "id": "CDCD45A5-3F65-402A-9EAC-4260E13C7782"
-    },
-    {
-      "class": "group",
-      "id": "EA72F56F-B5EF-4B2A-B26D-C4B312461193"
+      "id": "B84D05E3-1BA6-4491-90C1-ABBC11E06FE0"
     }
   ],
-  "name": "Sign In Popup",
+  "name": "Sign In Awaiting Email Screen - Kiosk Mode",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
