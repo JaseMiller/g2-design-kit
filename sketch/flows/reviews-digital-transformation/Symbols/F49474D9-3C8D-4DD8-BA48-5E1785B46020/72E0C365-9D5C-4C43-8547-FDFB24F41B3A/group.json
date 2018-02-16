@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "72E0C365-9D5C-4C43-8547-FDFB24F41B3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "44A8FF1F-446C-4532-857E-ADC2F883659B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49BE07B8-4D03-4739-8D5F-E19D2898BEEA"
+    },
+    {
+      "class": "text",
+      "id": "7CA385D4-BA8C-4E28-BF31-8F3FBC0AF0C0"
+    },
+    {
+      "class": "group",
+      "id": "40D0ABCE-6799-4F90-BF65-1B56B203BB60"
+    },
+    {
+      "class": "group",
+      "id": "D84201D8-EFBF-448A-9891-6DCBE2ABB283"
+    },
+    {
+      "class": "group",
+      "id": "8F8F9274-0B85-46AB-AA4E-69FCD35FE21E"
+    },
+    {
+      "class": "group",
+      "id": "50C8D96C-FDFA-4548-BBAF-7ABAA6DA7730"
+    }
+  ],
+  "name": "White Label Header and Progress Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

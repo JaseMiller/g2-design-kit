@@ -43,11 +43,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0B754248-D6C8-4094-9CE9-5FE7B2CD4B3C"
+      "id": "09A2EE6B-D7B6-4E93-9813-A562C132093D"
     },
     {
-      "class": "group",
-      "id": "554013AD-BE3C-4817-B8BB-A72806AF7F30"
+      "class": "symbolInstance",
+      "id": "0B754248-D6C8-4094-9CE9-5FE7B2CD4B3C"
     },
     {
       "class": "group",

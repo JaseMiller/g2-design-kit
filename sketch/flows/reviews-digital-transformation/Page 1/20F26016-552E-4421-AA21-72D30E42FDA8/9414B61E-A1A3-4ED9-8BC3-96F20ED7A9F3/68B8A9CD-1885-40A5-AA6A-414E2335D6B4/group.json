@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "68B8A9CD-1885-40A5-AA6A-414E2335D6B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 268,
+    "x": 36,
+    "y": 108
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2A68E76-D7DF-43F3-A556-0CC78D0EC194"
+    },
+    {
+      "class": "bitmap",
+      "id": "F06BBA77-6E63-417E-BD1D-CE1ECE01A042"
+    },
+    {
+      "class": "text",
+      "id": "2A64FE01-E1A3-4BA1-A0CB-FD0F7F478820"
+    }
+  ],
+  "name": "Solution Btn - PayChex Flex",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
