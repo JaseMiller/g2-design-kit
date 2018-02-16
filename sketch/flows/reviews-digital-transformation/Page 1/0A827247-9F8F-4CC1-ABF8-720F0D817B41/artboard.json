@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1024,
-    "x": 29450,
-    "y": 2613
+    "x": 40163,
+    "y": 2316
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

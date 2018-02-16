@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7206F78A-40A9-4E59-A0C4-5D3049393D11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 87,
+    "x": 210,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "52EF015D-23A7-46AB-83CD-B39BE6DD01B2"
+    },
+    {
+      "class": "text",
+      "id": "2AC8837F-E309-4408-8461-6FD36098A89E"
+    }
+  ],
+  "name": "Progress Indicator Btn - Review",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
