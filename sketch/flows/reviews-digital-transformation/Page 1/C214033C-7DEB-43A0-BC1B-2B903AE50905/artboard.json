@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1060,
     "width": 1024,
     "x": -1472,
     "y": -281
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "BDEF4E6F-B48F-49FE-BB5E-40DCC270758D"
+      "class": "symbolInstance",
+      "id": "C077DC20-16FD-4C97-AF03-E5298B39F0B7"
     },
     {
       "class": "group",
-      "id": "04DD39C0-F7CE-48F2-BFD6-9694DC9BCE17"
+      "id": "BDEF4E6F-B48F-49FE-BB5E-40DCC270758D"
     },
     {
       "class": "group",

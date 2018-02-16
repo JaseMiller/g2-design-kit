@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 322,
+    "height": 436,
     "width": 952,
     "x": 36,
     "y": 434
@@ -23,11 +23,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "D9A58CBC-30D9-4D9F-AD03-E0D4A355D631"
+    },
+    {
+      "class": "text",
+      "id": "945288F4-F059-4B68-877F-78ED8E4E182A"
+    },
+    {
+      "class": "text",
+      "id": "7EDCD65C-01C1-4FA8-AAC5-CFD1F60053F5"
+    },
+    {
+      "class": "text",
+      "id": "C1A73102-8897-4D55-A8C1-AB0D376704FD"
+    },
+    {
+      "class": "text",
+      "id": "DBEC3B3B-4D7F-4990-A91B-800E8200AFB1"
     },
     {
       "class": "text",
@@ -80,6 +96,38 @@
     {
       "class": "text",
       "id": "197870D6-76C6-4274-930F-8EA97D7A4039"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "090F2D6E-3604-417E-ACA0-2BA1DCBBD120"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F392C270-B94C-4DCE-BF8D-AEC47A8947D4"
+    },
+    {
+      "class": "text",
+      "id": "4318F77C-DB8F-4806-8A2E-8969F09B5CE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58D65DCA-3B7A-424C-B843-D6FBE48031A3"
+    },
+    {
+      "class": "text",
+      "id": "79A1827F-C30E-4355-B140-2C0D09AA88FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5464173-4E53-4270-AD29-88EC26C372BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFD65C21-7A5F-4661-9A1E-A632054A6CE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E45011E-03F7-4EFA-9693-2620371C8039"
     }
   ],
   "name": "Role Question Section",

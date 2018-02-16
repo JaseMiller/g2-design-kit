@@ -47,10 +47,6 @@
     },
     {
       "class": "group",
-      "id": "1B218031-769E-498A-B332-0473C159ACFD"
-    },
-    {
-      "class": "group",
       "id": "55A1B842-9BE6-4CAB-9673-DC97CEC13924"
     },
     {
@@ -116,6 +112,10 @@
     {
       "class": "symbolInstance",
       "id": "C74E433D-30B0-4550-B459-4A5A831ADDB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF787D43-A786-4EE2-82B2-99F5E82772D8"
     }
   ],
   "name": "Question 14",
