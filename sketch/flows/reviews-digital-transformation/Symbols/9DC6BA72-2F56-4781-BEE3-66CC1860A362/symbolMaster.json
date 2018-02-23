@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 150,
+  "changeIdentifier": 211,
   "do_objectID": "9DC6BA72-2F56-4781-BEE3-66CC1860A362",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,10 @@
     {
       "class": "group",
       "id": "5AA67BE6-43B0-4A55-A31D-60619742D448"
+    },
+    {
+      "class": "group",
+      "id": "8F1B0DA4-F58B-4657-9C26-98D4DA608E65"
     }
   ],
   "name": "White Label Header and Progress Bar / Review",
