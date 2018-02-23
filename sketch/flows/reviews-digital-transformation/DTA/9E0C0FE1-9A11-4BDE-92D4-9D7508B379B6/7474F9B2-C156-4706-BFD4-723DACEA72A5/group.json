@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7474F9B2-C156-4706-BFD4-723DACEA72A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1850,
+    "width": 952,
+    "x": 36,
+    "y": 377
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A48E2B1-98F7-43A4-8B0E-ABF02C928FD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "609000BD-FB88-494B-B61E-EF27D2386E90"
+    }
+  ],
+  "name": "Paper Background - Survey Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

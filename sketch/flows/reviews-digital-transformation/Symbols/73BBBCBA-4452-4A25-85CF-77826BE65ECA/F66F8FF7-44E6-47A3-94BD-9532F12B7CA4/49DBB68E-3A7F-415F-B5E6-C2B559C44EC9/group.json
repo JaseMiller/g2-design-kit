@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "49DBB68E-3A7F-415F-B5E6-C2B559C44EC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 67,
+    "x": 408,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BBE6605D-3464-44B7-8DE8-0F1A6812450C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61935F2B-F7D9-42A2-B4A5-508C1DEC5F23"
+    }
+  ],
+  "name": "Section 3 Point",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0DCD85F4-8C26-43B5-A768-8F0ACBC73277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 268,
+    "x": 328,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C8FD22C-2540-49AA-A7A7-C841A70DD98E"
+    },
+    {
+      "class": "text",
+      "id": "9FD10B6E-ABD3-4952-83CB-0C84C1E7448D"
+    },
+    {
+      "class": "bitmap",
+      "id": "3F2445D2-EDD4-4452-8CEB-511FA2F835B6"
+    }
+  ],
+  "name": "Solution Btn - Gusto",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
