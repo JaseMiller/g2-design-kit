@@ -23,19 +23,43 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "76A079E0-B9F9-4351-BF8F-62ED2ADBEFC7"
     },
     {
-      "class": "text",
-      "id": "699DAB19-B4EF-417A-A6E3-EF61CB2CDA41"
+      "class": "shapeGroup",
+      "id": "E3535510-E20E-4A85-AAC0-F4C47A30438E"
     },
     {
       "class": "text",
       "id": "B7A864C7-498F-4EF6-88FB-3A1AF7D9C5E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A12BA5B0-731F-4E20-994D-BE3693FE1B7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3F17B60-A5E2-4076-8CDE-2F4E71BFEEB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA35E793-8B38-435D-9192-E3758EE02972"
+    },
+    {
+      "class": "group",
+      "id": "D8D94430-19D5-480B-92F3-B0986BC8F51C"
+    },
+    {
+      "class": "group",
+      "id": "A64A4A19-3A59-44C3-A2D4-FCC50395A3F7"
+    },
+    {
+      "class": "group",
+      "id": "6F27B0C9-C47A-464D-8334-E1B2AFEBC816"
     }
   ],
   "name": "Survey Status Box",

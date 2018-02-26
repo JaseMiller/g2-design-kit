@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 85,
     "width": 85,
-    "x": 96,
+    "x": 178,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "FF7648CA-C483-410B-9E5B-7123E84214D7"
-    },
-    {
-      "class": "group",
-      "id": "44F4B942-B162-492F-93DD-F4A40C1F1816"
     }
   ],
   "name": "Group 2",
