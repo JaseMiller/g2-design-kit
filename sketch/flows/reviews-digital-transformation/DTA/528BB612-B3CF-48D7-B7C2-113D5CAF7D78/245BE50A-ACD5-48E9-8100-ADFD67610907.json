@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "245BE50A-ACD5-48E9-8100-ADFD67610907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 952,
+    "x": 36,
+    "y": 2135
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "Survey Status Box",
+  "nameIsFixed": false,
+  "originalObjectID": "05CC5923-925C-4286-8977-153D44924619",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "699DAB19-B4EF-417A-A6E3-EF61CB2CDA41_stringValue",
+      "value": "13 / 14"
+    }
+  ],
+  "overrides": {
+    "699DAB19-B4EF-417A-A6E3-EF61CB2CDA41": "13 / 14"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B71E8672-531A-45CB-94DE-D57214E92879",
+  "verticalSpacing": 0
+}
