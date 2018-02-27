@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 752,
   "do_objectID": "932A8123-7219-4073-A7CF-46C551E218FB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "8890CDA3-DFEB-42E2-83D4-042997551E55"
     }
   ],
-  "name": "Survey Status Box",
-  "nameIsFixed": false,
+  "name": "Survey Status Box / No progress",
+  "nameIsFixed": true,
   "originalObjectID": "932A8123-7219-4073-A7CF-46C551E218FB",
   "resizesContent": false,
   "resizingConstraint": 63,
