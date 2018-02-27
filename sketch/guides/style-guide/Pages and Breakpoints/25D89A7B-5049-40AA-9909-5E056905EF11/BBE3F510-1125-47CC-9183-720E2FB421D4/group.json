@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BBE3F510-1125-47CC-9183-720E2FB421D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 420,
+    "width": 1581,
+    "x": 320,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6A275597-B92C-4FC2-9D04-6C96AF537CC4"
+    },
+    {
+      "class": "group",
+      "id": "4E29B475-ED3B-421E-9DD6-16F94EB0A110"
+    },
+    {
+      "class": "group",
+      "id": "3A48F3D9-8DE3-44AA-8E3A-3FBE957A80AC"
+    },
+    {
+      "class": "group",
+      "id": "0AA0AFD5-17AD-4667-BE23-952933C84989"
+    },
+    {
+      "class": "group",
+      "id": "DE50B4B3-F369-4ECD-8997-D611D352C73E"
+    }
+  ],
+  "name": "Breakpoints",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
