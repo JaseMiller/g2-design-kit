@@ -1,0 +1,83 @@
+{
+  "_class": "page",
+  "do_objectID": "582e1d50-0c34-11e8-97be-1f8eb125e3c0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "2B0712BF-ED84-422A-B15A-5A86DBACED71"
+    },
+    {
+      "class": "artboard",
+      "id": "040B3C85-F164-40EF-872C-A800F941C957"
+    },
+    {
+      "class": "artboard",
+      "id": "BCEE6B36-4104-4FB9-ABDE-BC1A3D7B2AAE"
+    },
+    {
+      "class": "artboard",
+      "id": "812D13FE-27D4-4A65-8B41-9D8A45BD1FC3"
+    },
+    {
+      "class": "artboard",
+      "id": "14BD01DD-C0E7-424D-BB40-CB834B8E08BB"
+    },
+    {
+      "class": "artboard",
+      "id": "25D89A7B-5049-40AA-9909-5E056905EF11"
+    }
+  ],
+  "name": "Pages and Breakpoints",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "includeHotspotsWhenSyncing": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
