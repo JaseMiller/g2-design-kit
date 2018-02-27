@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BD65AE6A-D268-40FE-9C98-F307F889AB72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 495.5602536997886,
+    "width": 1200,
+    "x": 0,
+    "y": 4732
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6A89567-84D0-4D75-A9E1-67E14E96AB52"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB0D34C5-DD99-483F-9104-32B0BFFB5147"
+    }
+  ],
+  "name": "screencapture-g2crowd-products-slack-reviews-1519670002453",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
