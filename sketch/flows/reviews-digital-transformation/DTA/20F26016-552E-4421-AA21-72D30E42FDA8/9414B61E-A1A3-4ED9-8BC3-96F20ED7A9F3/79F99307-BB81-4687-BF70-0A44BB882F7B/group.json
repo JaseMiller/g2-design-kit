@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "79F99307-BB81-4687-BF70-0A44BB882F7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 268,
+    "x": 328,
+    "y": 396
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "72BA7204-FF6E-4403-AE02-2FE4723A6946"
+    },
+    {
+      "class": "text",
+      "id": "C03156A0-3527-41F9-8BBD-D3D304A8A8EB"
+    },
+    {
+      "class": "bitmap",
+      "id": "822BB8AC-BBB4-4898-B40E-F30C353EC9D8"
+    }
+  ],
+  "name": "Solution Btn - Litmos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
