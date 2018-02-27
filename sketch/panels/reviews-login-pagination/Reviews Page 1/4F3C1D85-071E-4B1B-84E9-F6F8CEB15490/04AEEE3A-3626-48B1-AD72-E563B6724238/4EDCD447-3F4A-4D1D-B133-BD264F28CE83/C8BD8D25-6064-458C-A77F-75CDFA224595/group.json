@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C8BD8D25-6064-458C-A77F-75CDFA224595",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 140,
+    "x": 406,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B78A3BA-AE5E-4C36-B136-ECFBF67DC09B"
+    },
+    {
+      "class": "group",
+      "id": "1EA6D9BE-EA67-4ECF-B94B-95361981A5CC"
+    }
+  ],
+  "name": "Email Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
