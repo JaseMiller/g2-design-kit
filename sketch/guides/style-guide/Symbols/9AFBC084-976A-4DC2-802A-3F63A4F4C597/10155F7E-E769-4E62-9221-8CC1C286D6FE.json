@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 22,
     "width": 67,
-    "x": 746,
+    "x": 637,
     "y": 36
   },
   "glyphBounds": "{{0, 0}, {67, 22}}",
@@ -37,7 +37,7 @@
   "name": "Connect",
   "nameIsFixed": false,
   "originalObjectID": "10155F7E-E769-4E62-9221-8CC1C286D6FE",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

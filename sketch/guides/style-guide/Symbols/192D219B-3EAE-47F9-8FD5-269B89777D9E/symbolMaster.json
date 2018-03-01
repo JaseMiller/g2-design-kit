@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 552,
   "do_objectID": "192D219B-3EAE-47F9-8FD5-269B89777D9E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 278,
-    "width": 1027,
-    "x": 2120,
-    "y": 0
+    "width": 1000,
+    "x": 4328,
+    "y": 566
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -100,8 +100,8 @@
       "id": "2CDF669C-1304-4B0D-9B7A-4191126FC99F"
     }
   ],
-  "name": "Footer",
-  "nameIsFixed": false,
+  "name": "Footer / Medium",
+  "nameIsFixed": true,
   "originalObjectID": "192D219B-3EAE-47F9-8FD5-269B89777D9E",
   "resizesContent": false,
   "resizingConstraint": 63,

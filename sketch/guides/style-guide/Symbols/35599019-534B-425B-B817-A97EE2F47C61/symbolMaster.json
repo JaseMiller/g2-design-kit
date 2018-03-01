@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 126,
   "do_objectID": "35599019-534B-425B-B817-A97EE2F47C61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 334,
-    "width": 1923,
-    "x": 3247,
-    "y": 0
+    "width": 1920,
+    "x": 100,
+    "y": 566
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -100,7 +100,7 @@
       "id": "E2308F9F-56F3-4020-90BB-47E77820120B"
     }
   ],
-  "name": "Footer / XL",
+  "name": "Footer / XLarge",
   "nameIsFixed": true,
   "originalObjectID": "35599019-534B-425B-B817-A97EE2F47C61",
   "resizesContent": false,

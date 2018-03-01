@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 22,
     "width": 76,
-    "x": 299,
+    "x": 287,
     "y": 36
   },
   "glyphBounds": "{{0, 0}, {76, 22}}",
@@ -37,7 +37,7 @@
   "name": "Company",
   "nameIsFixed": false,
   "originalObjectID": "80DE9C92-52C6-46A7-8826-5B665522B30D",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
