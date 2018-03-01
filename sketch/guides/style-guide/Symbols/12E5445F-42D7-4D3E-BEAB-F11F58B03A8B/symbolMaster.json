@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 407,
   "do_objectID": "12E5445F-42D7-4D3E-BEAB-F11F58B03A8B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 733,
-    "width": 642,
-    "x": 9475,
-    "y": 0
+    "width": 480,
+    "x": 7098,
+    "y": 566
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -88,7 +88,7 @@
       "id": "E561B332-30CB-4D04-AF1D-89F39EBB3464"
     }
   ],
-  "name": "Footer / Small",
+  "name": "Footer / XSmall",
   "nameIsFixed": true,
   "originalObjectID": "12E5445F-42D7-4D3E-BEAB-F11F58B03A8B",
   "resizesContent": false,

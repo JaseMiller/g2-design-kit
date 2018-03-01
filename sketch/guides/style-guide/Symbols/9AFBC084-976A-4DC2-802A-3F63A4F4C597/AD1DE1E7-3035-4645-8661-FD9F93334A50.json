@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 22,
     "width": 61,
-    "x": 1066,
+    "x": 937,
     "y": 36
   },
   "glyphBounds": "{{0, 0}, {61, 22}}",
@@ -37,7 +37,7 @@
   "name": "Policies",
   "nameIsFixed": false,
   "originalObjectID": "AD1DE1E7-3035-4645-8661-FD9F93334A50",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
