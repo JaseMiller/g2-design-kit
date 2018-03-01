@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "04025F3F-D40F-4EA6-BEAE-C1D52A84C8CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C3586A2-4C57-4C04-8618-2E7F51248FFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A01039A2-7C04-4FF7-9C3C-482B610C6DAE",
+    "height": 18,
+    "width": 93,
+    "x": 91,
+    "y": 33
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stars / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBD37EF9-792B-40B7-A0D7-AF4E09B5D8E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "34119FD2-2692-4E40-B51B-44F8042F31AE",
+  "verticalSpacing": 0
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 548,
   "do_objectID": "9AFBC084-976A-4DC2-802A-3F63A4F4C597",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 278,
-    "width": 1441,
-    "x": 6394,
-    "y": 0
+    "width": 1200,
+    "x": 2574,
+    "y": 566
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -100,8 +100,8 @@
       "id": "AD1DE1E7-3035-4645-8661-FD9F93334A50"
     }
   ],
-  "name": "Footer",
-  "nameIsFixed": false,
+  "name": "Footer / Large",
+  "nameIsFixed": true,
   "originalObjectID": "9AFBC084-976A-4DC2-802A-3F63A4F4C597",
   "resizesContent": false,
   "resizingConstraint": 63,

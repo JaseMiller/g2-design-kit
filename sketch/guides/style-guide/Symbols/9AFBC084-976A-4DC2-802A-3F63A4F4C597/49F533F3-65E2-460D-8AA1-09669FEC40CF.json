@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 22,
     "width": 81,
-    "x": 104,
+    "x": 36,
     "y": 37
   },
   "glyphBounds": "{{0, 0}, {81, 22}}",
@@ -37,7 +37,7 @@
   "name": "G2 Crowd",
   "nameIsFixed": false,
   "originalObjectID": "49F533F3-65E2-460D-8AA1-09669FEC40CF",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
