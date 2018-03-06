@@ -1,0 +1,95 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9,
+        "green": 0.9,
+        "red": 0.24353514
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "d7e7e6d0-2097-11e8-89c9-7f9416db2b18",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "connected_kit": {
+        "kit_uuid": "E1175B01-0692-4076-9E87-4782DCC40D83",
+        "space_id": "87821",
+        "version": 0
+      },
+      "first_version": 99,
+      "min_version": 84,
+      "storage": {
+        "hashes": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+            "5A2DA654-AA1B-4856-9AED-6C2BB6213835": {
+              "hash": "c10b0dfcac654646cee7ec975f99c95525bd26f8",
+              "name": "Rectangle"
+            }
+          },
+          "symbols": {
+            "97A5B53D-18CF-4E25-BEBC-D96F5F3D2388": {
+              "hash": "ee8354d893aaa89081a2f3cf7b1bb79c10d5b71d",
+              "name": "Button 1 Test"
+            }
+          },
+          "textStyles": {
+          }
+        },
+        "skipped": [
+        ],
+        "sync": {
+          "colors": {
+            "A4CFE08E-F6CD-4205-9D1C-D95AD426DD50": "3EE6E6"
+          },
+          "layerStyles": {
+          },
+          "layers": {
+            "E6EC888B-1BFB-403A-95C0-EF84C4238DFE": "5A2DA654-AA1B-4856-9AED-6C2BB6213835"
+          },
+          "symbols": {
+          },
+          "textStyles": {
+          }
+        }
+      },
+      "version": 99
+    }
+  }
+}

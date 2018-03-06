@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5A5B4948-DB7A-4679-992D-1992DEF2C276",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C39C0D2-1C1F-4BAC-8AC3-CA62C9883A2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0788CD77-4647-4DA1-89AC-0A24C2C127C9",
+    "height": 14,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FAFE083C-330B-4352-BF66-AF106852EAC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6774F28B-E5E1-40B3-859F-5DF709E09C4A"
+    }
+  ],
+  "name": "linkedin-white-f10d60a9ca806e1befccdefe9c50ab0a4441ac3f99704edbd712fcd0ef945c88",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9EEDF43-A0E4-4A02-91D4-5C544D3F8CDA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

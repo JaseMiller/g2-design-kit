@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "0E58B633-8BD1-429D-BE5A-7751E8C5BC94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51FB63B1-BEA7-445B-9376-800360ECD3B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E57218B-F921-49D7-BB57-408884D5A17F",
+    "height": 24,
+    "width": 231,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3F2D316F-854F-4424-A96A-C329662BC80A"
+    }
+  ],
+  "name": "Button Primary Raised Blue Normal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B63E199-FD87-4CA9-815A-604DD8D4056D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
