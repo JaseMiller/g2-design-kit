@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "582e4460-0c34-11e8-97be-1f8eb125e3c0",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Pages and Breakpoints",
@@ -37,6 +35,11 @@
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13295085,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 99,
+      "min_version": 84,
+      "version": 99
     }
   }
 }

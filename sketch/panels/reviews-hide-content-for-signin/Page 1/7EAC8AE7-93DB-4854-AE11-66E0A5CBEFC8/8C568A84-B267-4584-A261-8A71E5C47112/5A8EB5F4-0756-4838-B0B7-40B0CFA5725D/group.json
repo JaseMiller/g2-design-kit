@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5A8EB5F4-0756-4838-B0B7-40B0CFA5725D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA193F26-656A-4340-92A7-70F549788F58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35E5B864-6908-4471-8E4C-F40C34D776B6",
+    "height": 124,
+    "width": 665,
+    "x": 91,
+    "y": 464
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FB3D4597-3294-41A7-8D5E-7052307709C4"
+    },
+    {
+      "class": "text",
+      "id": "B19456AC-53BC-4FF0-80BF-705BDDDD5171"
+    }
+  ],
+  "name": "Business Problem",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9310D431-38ED-4617-B43A-18244E58D521",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

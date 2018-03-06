@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "66A172BD-6132-4A46-A2DB-366A19C2381B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A894FBFE-11A4-449B-8A21-40F437363A76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78917300-FF1F-405F-AA94-A45010E5CDB7",
+    "height": 11,
+    "width": 14,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "851C4420-1A53-4DB1-B089-307D3F18D279"
+    }
+  ],
+  "name": "email-4-iconmonstr",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0ADDAFCB-EDE8-495F-8C46-03CCC244B39C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
