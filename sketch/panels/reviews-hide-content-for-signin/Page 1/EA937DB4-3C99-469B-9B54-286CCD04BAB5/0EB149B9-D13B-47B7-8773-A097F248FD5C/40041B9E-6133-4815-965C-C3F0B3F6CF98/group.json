@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "40041B9E-6133-4815-965C-C3F0B3F6CF98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 677,
+    "x": 79,
+    "y": 247
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98E7A3BE-58FB-4462-8D35-70B35EE6F543"
+    },
+    {
+      "class": "group",
+      "id": "A7380F12-474D-471A-8127-0B6A1E0258D7"
+    },
+    {
+      "class": "group",
+      "id": "96384329-034B-4A34-A597-52D42A37E026"
+    }
+  ],
+  "name": "Hidden Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

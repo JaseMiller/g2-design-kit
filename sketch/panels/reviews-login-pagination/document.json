@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "e7dd65f0-1b20-11e8-972f-c5bb7d980db8",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Reviews Page 1",
@@ -37,6 +35,11 @@
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13498029,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 99,
+      "min_version": 84,
+      "version": 99
     }
   }
 }

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E9D024BF-0D59-42FA-A643-71F73B872738",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75B9776C-9D52-4437-A8A9-89FC7D3C3C74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABAB1625-321B-4086-9D1E-683FF8837F32",
+    "height": 40,
+    "width": 190,
+    "x": 91,
+    "y": 607
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "555C42B0-D22A-42A8-9339-51FC67A34FF9"
+    },
+    {
+      "class": "group",
+      "id": "8DC324A2-69C5-4830-A046-E3EC74697685"
+    }
+  ],
+  "name": "Button Primary Raised Blue Focus",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9096D8AA-698D-410C-92BE-13EA3FAC1CA3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "3FF15341-9E23-4B15-AEC1-E053B87650DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A9C7E21-A6FD-4077-98EF-6955D340EE49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44360486-F392-4F16-87E8-D4D438E2AECC",
+    "height": 30,
+    "width": 30,
+    "x": 242,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "503069EA-B690-4FB6-877C-031318251411"
+    },
+    {
+      "class": "group",
+      "id": "65B80D9F-973A-41B0-AC77-0A1BCFB163DC"
+    }
+  ],
+  "name": "LinkedIn Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E84761F-967A-429B-8462-29D98CC0CD09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

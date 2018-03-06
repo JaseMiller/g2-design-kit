@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "4688A733-7997-429C-A3B5-A44B736D1D32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "466C7AAA-1D57-428E-9997-3E834E0C843C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22A44DA1-3A4A-47C4-93D4-9BBE3181D6B6",
+    "height": 40,
+    "width": 190,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "454FEC8D-3C12-4EC1-9C34-4F86F5587453"
+    },
+    {
+      "class": "text",
+      "id": "851943BC-5BA3-481F-A5B3-6E9A3C235E27"
+    }
+  ],
+  "name": "Rectangle 10 Copy + FOCUS",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C73BAFA0-828F-43FF-97FC-EAA130EE6C26",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
